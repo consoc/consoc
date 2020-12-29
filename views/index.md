@@ -80,6 +80,13 @@ the 1980s.
 	level: 2,
 %}
 
+<figure class="float-right" style="width: 10em">
+<img src="/img/bishopsbarn.jpg" alt="A centuries-old stone building by a grassy lawn. A clear sky is above.">
+<figcaption>
+The Bishop’s Barn is a 15th-century tithe barn given to the city of Wells 130 years ago for the use of citizens.
+</figcaption>
+</figure>
+
 The Somerset Building Preservation Trust — of which our society is a
 corporate member — is trying to find ways to increase the community use
 of the historic Bishop’s Barn, in Silver Street, Wells. It is listed
