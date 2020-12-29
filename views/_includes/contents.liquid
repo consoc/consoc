@@ -1,0 +1,16 @@
+<ul>
+{%- for article in nl.contents -%}
+<li>
+{% include contents-entry with article, newsletterNumber: nl.number %}
+{%- if article.sub -%}
+<ul>
+{%- for subarticle in article.sub -%}
+<li>
+{% include contents-entry with article: subarticle, newsletterNumber: nl.number %}
+</li>
+{%- endfor -%}
+</ul>
+{% endif %}
+</li>
+{%- endfor -%}
+</ul>

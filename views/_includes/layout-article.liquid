@@ -1,0 +1,37 @@
+---
+layout: layout.njk
+---
+
+<div class="boxout italic">
+	Reprinted from <a href="/newsletter/articles/#newsletter-{{ newsletter.number }}">Newsletter {{ newsletter.number }}</a>,
+	dated {{ newsletter.roughDate | date: "%Y %B" }}
+</div>
+
+<article>
+
+{% include article-header with title: article.title, author: article.author %}
+
+{{ content | safe }}
+
+</article>
+
+{% if similar.length > 0 %}
+
+<nav class="boxout newsletter-contents" aria-labelled-by="related-articles-heading">
+<h2 id="related-articles-heading">Related articles</h2>
+<ul>
+{% for ra in similar %}
+<li>
+{% include contents-entry with
+	article: ra,
+	newsletterNumber: ra.newsletterNumber,
+	hidePage: true,
+	hideWebOnly: true,
+	showNewsletter: true,
+%}
+</li>
+{% endfor %}
+</ul>
+</nav>
+
+{% endif %}

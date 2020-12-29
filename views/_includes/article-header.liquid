@@ -1,0 +1,9 @@
+{%- unless level -%}
+{%- assign level = 1 -%}
+{%- endunless -%}
+<header class="sandwich">
+<h{{level}}>{{ title }}</h{{level}}>
+{%- if author %}
+<p class="author">{{ author | replace: " ", " " }}</p>
+{%- endif %}
+</header>

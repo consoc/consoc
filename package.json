@@ -1,0 +1,17 @@
+{
+  "name": "consoc2020",
+  "version": "1.0.0",
+  "description": "Glastonbury Conservation Society website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bart Nagel <bart@tremby.net>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "dotenv": "^8.2.0",
+    "js-yaml": "^3.14.1",
+    "lodash.samplesize": "^4.2.0"
+  }
+}

@@ -1,0 +1,62 @@
+---
+defaultTitle: Glastonbury Conservation Society
+nav:
+  - url: /
+    name: Home
+  - url: /about/
+    name: About
+  - url: /newsletter/
+    name: Newsletter
+  - url: /links/
+    name: Links
+  - url: /contact/
+    name: Contact
+---
+
+<!doctype html>
+<html lang="en-GB">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{% if title %}{{ title }} – {{ defaultTitle }}{% else %}{{ defaultTitle }}{% endif %}</title>
+		<link href="/inc/styles.css" rel="stylesheet">
+	</head>
+	<body>
+		<a id="skip-link" href="#main">Skip navigation</a>
+		<header id="site-header">
+			<a href="/" aria-label="Go to home page" id="site-home-link">
+				<img src="/img/logoconsoc.png" alt="">
+				{% if title %}
+					<span id="site-name">Glastonbury Conservation Society</span>
+				{% else %}
+					<h1 id="site-name">Glastonbury Conservation Society</h1>
+				{% endif %}
+			</a>
+			<hr class="thickthin">
+			<nav aria-label="Site navigation">
+				<ul>
+					{% for item in nav %}
+						{% if page.url == item.url %}
+							<li class="current" aria-current="page"><span>{{ item.name }}</span></li>
+						{% else %}
+							<li><a href={{ item.url }}>{{ item.name }}</a></li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+			</nav>
+		</header>
+		<main id="main">
+			{{ content | safe }}
+		</main>
+		<footer id="site-footer">
+			<p>
+				Website first published in 2005 by Jim Nagel.
+				This 2020 revamp is a modernization by his son
+				attempting to preserve the style and all content.
+			</p>
+			<a href="http://abbeypress.net/">
+				<img src="/img/tor.png" alt="Abbey Press Glastonbury" id="tor-logo">
+			</a>
+		</footer>
+	</body>
+</html>

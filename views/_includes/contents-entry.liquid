@@ -1,0 +1,23 @@
+{%- if showNewsletter -%}
+Newsletter {{ newsletterNumber }}:
+{% endif -%}
+{%- if article.url -%}
+<a href="/newsletter/articles/{{ newsletterNumber | pad: 3 }}/{{ article.url }}/">
+{%- endif -%}
+<span class="title">{{ article.title }}</span>
+{%- if article.url -%}
+</a>
+{%- endif -%}
+{%- if article.author %}
+<cite class="author">{{ article.author }}</cite>
+{%- endif -%}
+{%- unless hidePage -%}
+{%- if article.page %}
+<span class="page-number">page {{ article.page }}</span>
+{%- endif -%}
+{%- endunless -%}
+{%- unless hideWebOnly -%}
+{%- if article.webOnly %}
+[web only]
+{%- endif -%}
+{%- endunless -%}
