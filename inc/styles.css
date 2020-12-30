@@ -6,6 +6,9 @@
 
 	--bg: white;
 	--fg: black;
+	--link: blue;
+	--vlink: purple;
+	--alink: red;
 
 	--boxout-green-bg: var(--lightGreen);
 	--boxout-green-fg: inherit;
@@ -16,6 +19,28 @@
 
 	--serif: "Times New Roman", Times, "Trinity.Medium", Trinity, serif;
 	--sans: Helvetica, Arial, Homerton, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--green: lightgreen;
+		--lightGreen: #131;
+		--red: #f66;
+		--lightRed: #311;
+
+		--bg: #111;
+		--fg: white;
+		--link: #aaf;
+		--vlink: #dad;
+		--alink: orange;
+
+		--boxout-green-bg: var(--lightGreen);
+		--boxout-green-fg: inherit;
+		--boxout-green-highlight: var(--green);
+		--boxout-pink-bg: var(--lightRed);
+		--boxout-pink-fg: inherit;
+		--boxout-pink-highlight: var(--red);
+	}
 }
 
 html {
@@ -48,6 +73,16 @@ h1, h2, h3, h4 {
 	line-height: 1;
 }
 
+a {
+	color: var(--link);
+}
+a:visited {
+	color: var(--vlink);
+}
+a:active {
+	color: var(--alink);
+}
+
 #skip-link {
 	position: absolute;
 	z-index: 1;
@@ -75,6 +110,13 @@ h1, h2, h3, h4 {
 
 #site-header {
 	margin-bottom: 2rem;
+}
+
+@media (prefers-color-scheme: dark) {
+	#site-header img, #site-footer img {
+		filter: invert(1) hue-rotate(0.5turn);
+		mix-blend-mode: screen;
+	}
 }
 
 #site-home-link {
