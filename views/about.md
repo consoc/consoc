@@ -9,9 +9,9 @@ It is somewhat startling to calculate how long the Conservation Society has been
 It is more than 15% of the tercentenary that the town recently celebrated: 48 out of the now 315 years.
 
 The society was formed in haste in 1971 in order to save the Crown Hotel in the central Market Place from being pulled down, as had several interesting medieval buildings nearby; swift spot-listing saved a number of other sites too.
-Today [the Crown survives](/100/crown) as a building but is currently awaiting a new owner.
+Today [the Crown survives](/newsletter/articles/100/crown/) as a building but is currently awaiting a new owner.
 
-Another Conservation Society project was to rescue some of Glastonbury’s pre-Beeching heritage: [the canopy from the railway station](/050/history1#canopy), by relocating it (ironically?) amid parked cars in the main central carpark, where it makes two acres of asphalt easier on the eye.
+Another Conservation Society project was to rescue some of Glastonbury’s pre-Beeching heritage: [the canopy from the railway station](/newsletter/articles/050/history1/#canopy), by relocating it (ironically?) amid parked cars in the main central carpark, where it makes two acres of asphalt easier on the eye.
 The trees in the carparks are the society’s work too.
 
 Today, Glastonbury Conservation Society:
@@ -41,10 +41,10 @@ This includes membership of the [Somerset Building Preservation Trust](https://w
 
 Read a summary of the society’s doings since 1971:
 
-- [1971–1988](/050/history1)
-- [1989–2001](/100/history2)
+- [1971–1988](/newsletter/articles/050/history1/)
+- [1989–2001](/newsletter/articles/100/history2/)
 
-[Read the society’s constitution](/constitution.pdf).
+[Read the society’s constitution](/dl/constitution.pdf).
 
 <img class="limit center" alt="Map of the Glastonbury Conservation Area showing a large area including the town centre, abbey ruins, and tor, shaded in green." src="/img/cons-area-map.jpg">
 
