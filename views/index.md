@@ -14,7 +14,7 @@ layout: layout.njk
 
 The society has so far planted **51,800** trees in and around Glastonbury.
 Tree-planting volunteers always welcome.
-Contact Alan Fear, 83 3185.
+Contact Alan Fear, [83 3185](tel:+441458833185).
 
 </section>
 
