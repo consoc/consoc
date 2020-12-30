@@ -18,6 +18,8 @@ module.exports = {
 			return article;
 		},
 
+		title: (data) => data.article?.title,
+
 		// Get the newsletter this article was published in
 		newsletter: (data) => {
 			if (!/^\/newsletter\/articles\/\d\d\d\/[^/]+$/.test(data?.page?.filePathStem)) {
