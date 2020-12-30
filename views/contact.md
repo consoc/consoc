@@ -40,10 +40,6 @@ contacts:
     name: Mike Smyth
     phoneDisplay: 075 3224 0620
     phone: +447532240620
-  - role: emeritus
-    name: Ian Rands
-    phoneDisplay: 85 0509
-    phone: +441458850509
 ---
 
 # How to contact Conservation Society committee members
