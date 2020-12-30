@@ -1,3 +1,10 @@
+- roughDate: 1988
+  displayDate: 1988
+  number: 50
+  hidden: true
+  contents:
+    - title: The society’s achievements 1971–1988
+      url: history1
 - roughDate: 1999-02
   number: 90
   editor: Jim Nagel

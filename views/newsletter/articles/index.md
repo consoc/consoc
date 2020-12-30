@@ -13,6 +13,10 @@ Those which are available are linked.
 
 {% for nl in newsletters %}
 
+{% if nl.hidden %}
+{% continue %}
+{% endif %}
+
 <section id="newsletter-{{ nl.number }}">
 
 ## <span class="newsletter-number">Newsletter {{ nl.number }}:</span> {% if nl.displayDate %}{{ nl.displayDate }}{% else %}{{ nl.roughDate | date: "%Y %B" }}{% endif %}
