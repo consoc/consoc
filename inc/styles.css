@@ -321,3 +321,7 @@ figure img {
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
+
+article + article {
+	margin-top: 4rem;
+}
