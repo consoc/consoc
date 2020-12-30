@@ -147,9 +147,9 @@ h1, h2, h3, h4 {
 
 hr.thickthin {
 	margin: 0.5rem 0;
-	border-top: 2pt solid black;
+	border-top: 2pt solid var(--fg);
 	height: 1pt;
-	border-bottom: 1pt solid black;
+	border-bottom: 1pt solid var(--fg);
 }
 
 img.center {
