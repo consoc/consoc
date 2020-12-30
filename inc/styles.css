@@ -24,7 +24,7 @@ html {
 
 body {
 	margin: 20px auto;
-	max-width: 60rem;
+	max-width: 48rem;
 	font-family: var(--serif);
 	background-color: var(--bg);
 	color: var(--fg);
@@ -168,8 +168,11 @@ img.float-left, img.float-right, figure.float-left, figure.float-right {
 	margin-right: auto;
 	max-width: 80%;
 	max-height: 60vh;
-	margin-top: 1rem;
 	margin-bottom: 1rem;
+}
+
+img.float-left:first-child, img.float-right:first-child, figure.float-left:first-child, figure.float-right:first-child {
+	margin-top: 1rem;
 }
 
 @media screen and (min-width: 40rem) {
@@ -234,22 +237,6 @@ img.float-left, img.float-right, figure.float-left, figure.float-right {
 
 .boxout.pink blockquote {
 	border-color: var(--boxout-pink-highlight);
-}
-
-.boxout.right, .boxout.left {
-	max-width: 16em;
-}
-
-.boxout.right {
-	clear: right;
-	float: right;
-	margin-left: 1rem;
-}
-
-.boxout.left {
-	clear: left;
-	float: left;
-	margin-right: 1rem;
 }
 
 header.sandwich {

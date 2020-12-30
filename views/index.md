@@ -2,7 +2,7 @@
 layout: layout.njk
 ---
 
-<section class="boxout right italic sans" aria-label="About the society">
+<section class="boxout italic sans" aria-label="About the society">
 
 <p class="highlight">
 	The Glastonbury Conservation Society was founded in 1971
@@ -10,7 +10,7 @@ layout: layout.njk
 	here at Glastonbury, in Somerset, England.
 </p>
 
-<img class="limit center" alt="" src="/img/tree2aw.png" style="width: 6em">
+<img class="float-left" alt="" src="/img/tree2aw.png" style="width: 3em">
 
 The society has so far planted **51,800** trees in and around Glastonbury.
 Tree-planting volunteers always welcome.
