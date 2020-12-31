@@ -60,6 +60,10 @@ main {
 	margin: 2rem 0;
 }
 
+p {
+	margin: 1rem 0;
+}
+
 blockquote {
 	margin-left: 0.2em;
 	padding-left: 0.6em;
