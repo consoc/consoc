@@ -5,6 +5,8 @@
   contents:
     - title: The society’s achievements 1971–1988
       url: history1
+      tags:
+        - society-history
 - roughDate: 1999-02
   number: 90
   editor: Jim Nagel
@@ -216,7 +218,7 @@
       author: Jim Nagel
       page: 1
       url: digitize
-    - title: The Dod Lane kissing-gate
+    - title: "Opening to the new millennium: the Dod Lane kissing-gate"
       author: Ian Rands
       page: 1
       url: kissinggate
@@ -234,6 +236,8 @@
       author: Eric King
       page: 4
       url: king01
+      tags:
+        - king-high-street
 
 - roughDate: 2000-07
   displayDate: 2000 July–August
@@ -243,7 +247,7 @@
     - title: Chairman’s notes
       author: John Brunsdon
       page: 1
-    - title: Longest ride on the longest day
+    - title: "Longest ride on the longest day: National Cycle Network opens"
       page: 1
       url: bike-network
     - title: Dates for walks—and the garden
@@ -256,7 +260,7 @@
       author: Derek Hankins
       page: 2
       url: bovetown-garage
-    - title: Tree exhibit at Bath&West Show
+    - title: Tree exhibit at Bath&West Show — our “New trees for old” scheme
       author: Ian Rands
       page: 3
       url: trees-Bath+West
@@ -270,6 +274,8 @@
       author: Eric King
       page: 4
       url: king02
+      tags:
+        - king-high-street
 
 - roughDate: 2000-09
   number: 97
@@ -301,6 +307,8 @@
       author: Eric King
       page: 4
       url: king03
+      tags:
+        - king-high-street
 
 - roughDate: 2001-01
   displayDate: 2001 January–February
@@ -328,7 +336,7 @@
       author: Ian Rands
       page: 2
       url: tree27000
-    - title: Friend of the Glastonbury romancer
+    - title: Friend of the Glastonbury romancer, John Cowper Powys
       page: 2
       url: susanrands
     - title: Reminiscences
@@ -350,7 +358,7 @@
     - title: Looking after orchards
       author: Ian Rands
       page: 3
-    - title: Tannery ruins at last in public hands
+    - title: Morland tannery ruins at last in public hands
       author: Jim Nagel
       page: 1
       url: morland-RDA
@@ -370,13 +378,15 @@
       author: Eric King
       page: 4
       url: king04
+      tags:
+        - king-high-street
 
 - roughDate: 2001-08
   displayDate: 2001 August–September
   number: 100
   editor: Jim Nagel
   contents:
-    - title: Chairman’s notes 100.1–2
+    - title: "Chairman’s notes: MBE was actually a group effort"
       author: John Brunsdon
       page: 1–2
       url: chairnotes
@@ -385,6 +395,7 @@
       page: 1
       url: rileys
     - title: Dennis and Ena Allen retire
+      author: John Brunsdon
       page: 1
       url: allens
     - title: Dates for the diary
@@ -396,22 +407,26 @@
     - title: A fine kettle of fish
       page: 2
       url: knightswin
-    - title: Trees — remembering
+    - title: Trees — remembering our work since 1989; total now is 27,000
       author: Ian Rands
       page: 3
       url: trees
-    - title: Trees walk October 21
+    - title: "Trees walk with the Woodland Trust: come along on October 21"
       page: 3
       url: treeswalk
     - title: "1854: triumphant opening of the Somerset Central Railway"
+      author: Adrian Pearse
       page: 4
       url: railway1854
     - title: History and list of the society’s achievements 1971–1988, reprinted from newsletter 50 (dated 1988)
       page: 5
-    - title: Summary of the last 50 newsletters
+    - title: The society’s achievements 1989–2001
       page: 6
       url: history2
-    - title: New proprietor of Crown Hotel, which the society was founded to save, joins us
+      tags:
+        - society-history
+    - title: The Crown survives! Thriving result of the society’s genesis
+      author: Jim Nagel
       page: 6
       url: crown
 
