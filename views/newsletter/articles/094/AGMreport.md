@@ -24,27 +24,39 @@ authorize special cases*. This was seconded by John Morland and carried
 unanimously. John Brunsdon said Ian Rands would in future bring
 tree-planting schemes to the committee sooner.
 
-**Chairman’s report:** John Brunsdon pointed to the October newsletter
+Chairman’s report
+-----------------
+
+John Brunsdon pointed to the October newsletter
 for his summary of the year’s activities. He thanked committee members
 for their hard work, including Lizzie Knight for footpaths (which she
 wanted to give up) and Jan Morland for seven years as secretary, also
 Dennis Allen as treasurer and Ena Allen as membership secretary.
 
-**Trees:** Ian Rands thanked John Brunsdon for hospitality for committee
+Trees
+-----
+
+Ian Rands thanked John Brunsdon for hospitality for committee
 meetings. The 25,000th tree had been planted this year. He thanked
 tree-planters and the donors of trees.
 
-<figure>
-<img src="../accounts.png" alt="A chart titled “accounts for year ending 31 July 1999”. It shows the income and expenditure. Income totals £7,931.09 mostly from trees, and expenditure totals £8,009.40, mostly on trees. The closing balance is £20,657.00.">
-</figure>
+Accounts
+--------
 
-**Accounts:** Dennis Allen circulated the accounts and reported that the
+Dennis Allen circulated the accounts and reported that the
 society has 125 paid-up members and 25 memberships not yet renewed. An
 additional 40 newsletters are handed out to interested parties. Martin
 Blake suggested that the new committee could try to expand the
 membership.
 
-**Officers:** The chairman presented Jan Morland with a small token of
+<figure>
+<img src="../accounts.png" alt="A chart titled “Accounts for year ending 31 July 1999”. It shows the income and expenditure. Income totals £7,931.09 mostly from trees, and expenditure totals £8,009.40, mostly on trees. The closing balance is £20,657.00.">
+</figure>
+
+Officers
+--------
+
+The chairman presented Jan Morland with a small token of
 thanks for her services as secretary, which she said she would
 gratefully spend on the garden. Jean Pike proposed Janet Morland as
 secretary, seconded by Keith Mathews. (Janet is the daughter of Margot
@@ -56,7 +68,10 @@ Bonham, Geoffrey Brunt, Roy Coles, Bill and Lizzie Knight, Alan Levitt
 and John Morland. The committee will be looking for a new footpath
 officer.
 
-**Other business:** John Brunsdon had just come from a Town Hall meeting
+Other business
+--------------
+
+John Brunsdon had just come from a Town Hall meeting
 discussing a planning proposal for the Morlands site; the problem of the
 sewage works had not been resolved. Stephanie Morland said this would be
 discussed at the public meeting next month on the Local District Plan.
