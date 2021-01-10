@@ -42,6 +42,7 @@
       url: AGM1998
       tags:
         - newtown
+        - agm
     - title: Lecture dates for winter (Mondays at 7:30pm)
       page: 1
     - title: Hartlake cycle bridge is re-cycled
@@ -150,6 +151,8 @@
       page: 1
     - title: "1999 AGM : Wednesday, October 20"
       page: 1
+      tags:
+        - agm
     - title: Winter lecture series—dates for the diary
       page: 2
     - title: Antiquarian Society and the new library
@@ -181,6 +184,8 @@
     - title: "The AGM: Same tree radius and a new secretary"
       page: 1, 3
       url: AGMreport
+      tags:
+        - agm
     - title: Talks and slides for winter evenings
       page: 2
     - title: Tor entrances, footpaths and pointing to be tackled
@@ -291,6 +296,8 @@
       page: 1
     - title: AGM 2000
       page: 1
+      tags:
+        - agm
     - title: Talks and a walk for autumn and winter
       page: 2
     - title: 26,395 trees
@@ -332,6 +339,8 @@
       url: geoffbrunt
     - title: "AGM 2000: Ancient and modern in Glastonbury’s new library"
       page: 1
+      tags:
+        - agm
     - title: 27,000th tree planted in December
       author: Ian Rands
       page: 2
@@ -455,6 +464,8 @@
       page: 1
     - title: AGM
       page: 1
+      tags:
+        - agm
     - title: Two members who will be missed
       page: 2
     - title: Lunch at Middle Wick Farm
@@ -484,8 +495,12 @@
     - title: Chairman’s report to AGM 2001
       author: John Brunsdon
       page: 1
+      tags:
+        - agm
     - title: Annual meeting represents 165 members
       page: 1
+      tags:
+        - agm
     - title: Death of Cecil Hamilton-Miller
       page: 2
       url: H-Miller
@@ -654,6 +669,8 @@
       page: 3
     - title: AGM on January 24
       page: 1
+      tags:
+        - agm
     - title: Call for visual plans
       page: 1
     - title: Tree troops top 2002 with 30,000th tree
@@ -691,6 +708,8 @@
       author: Janet Morland
       page: 3
       url: agm2002
+      tags:
+        - agm
     - title: "Jack Hepworth: artist, architect, beekeeper, founder member"
       author: John Brunsdon, Jim Nagel
       page: 4
@@ -715,6 +734,8 @@
       author: Adrian Pearse
       page: 2
       url: cannon-bbc
+      tags:
+        - cannon
       sub:
         - title: Excerpts from the Cannon memoirs
           page: 3
@@ -769,12 +790,16 @@
     - title: Inspector approves 7 houses at The Hollies, Bove Town
       page: 1–3
       url: hollies-inspector
+      tags:
+        - bovetown
     - title: Dates for the diary
       page: 2
     - title: John Cannon and the church (a talk by Prof. John Money)
       author: Adrian Pearse
       page: 2
       url: cannon-church
+      tags:
+        - cannon
     - title: Death of Barbara Harland, Lady of the Manor
       author: John Brunsdon
       page: 2
@@ -971,6 +996,8 @@
           author: John Brunsdon
         - title: Minutes of the meeting
           author: Janet Morland
+      tags:
+        - agm
 
 - roughDate: 2005-05
   number: 115
@@ -1088,6 +1115,8 @@
       author: John Brunsdon
       page: 1
       url: bovetown-dig
+      tags:
+        - bovetown
       sub:
         - title: Dr Pinnigar’s house (The Hollies, Bovetown)
     - title: Glastonbury to become a World Heritage Site? Discuss at Friday’s AGM
@@ -1130,6 +1159,8 @@
     - title: Unanimous yes for World Heritage idea at AGM; and county council now backs it
       author: Jim Nagel
       page: 1
+      tags:
+        - agm
     - title: Glastonbury’s potential as a World Heritage Site
       page: 4
     - title: Saturday walks and a date for the diary
@@ -1145,6 +1176,8 @@
       author: Mary Needell
       page: 3
       url: pinniger
+      tags:
+        - bovetown
     - title: Cross and Crown
       photographer: Linda Robertson
       page: 1
@@ -1248,6 +1281,8 @@
       author: John Brunsdon
       page: 1
       url: chairnotes-rands
+      tags:
+        - agm
     - title: Christmas shop windows by night
       page: 1
     - title: "News: High-profile national developers take on Morland enterprise"
@@ -1281,6 +1316,8 @@
     - title: A trainload arrives for the 2006 annual meeting
       page: 4
       url: agm2006
+      tags:
+        - agm
       sub:
         - title: Accounts for year ending July 31
           author: Dennis Allen
@@ -1531,6 +1568,8 @@
       page: 5
     - title: 2007 AGM report
       url: agm2007
+      tags:
+        - agm
       sub:
         - title: Janet puts on second hat from Dennis
           page: 5
@@ -1703,6 +1742,8 @@
       page: 4
     - title: The society’s 2008 AGM
       page: 4
+      tags:
+        - agm
       sub:
         - title: Accounts for 2007–08
           page: 4
@@ -1788,6 +1829,8 @@
       page: 2
     - title: AGM and winter talks
       page: 2
+      tags:
+        - agm
       sub:
         - title: Taunton reciprocal tour being planned
           page: 2
@@ -1834,6 +1877,8 @@
       url: victorianglas
     - title: AGM affirms officers
       page: 2
+      tags:
+        - agm
       sub:
         - title: Year’s accounts for the society
           page: 2
@@ -1853,6 +1898,8 @@
       author: Jim Nagel
       page: 4
       url: cannon-aprinting
+      tags:
+        - cannon
     - title: Redbrick group plans studios at Morland site
       page: 4
     - title: Weston pier
@@ -1955,6 +2002,8 @@
     - title: "The Chronicles of John Cannon: an abstract <I>[on website only]</I>"
       author: Professor John Money
       url: cannon-abstract
+      tags:
+        - cannon
 
 - roughDate: 20111-03
   number: 134
@@ -1971,6 +2020,8 @@
       page: 1
     - title: "Society’s 40th AGM is a milestone: Alan Fear takes over as chairman"
       page: 2
+      tags:
+        - agm
     - title: Accounts for year ending 2010 July 31
       page: 2
     - title: Milestones — of the road sort
@@ -1980,6 +2031,8 @@
       author: Jim Nagel
       page: 3
       url: bovetown-hollies
+      tags:
+        - bovetown
     - title: Fiona’s tree in the coombe
       page: 3
     - title: Camera club and U3A update the High Street archive
@@ -2011,6 +2064,8 @@
       author: Adrian Pearse
       page: 8
       url: cannon-review
+      tags:
+        - cannon
 
 - roughDate: 2011-07
   number: 135
@@ -2074,6 +2129,8 @@
       page: 1
     - title: AGM meets 1950s boss of Snows Timber
       page: 1
+      tags:
+        - agm
     - title: "Talks: the town’s past in words and pictures"
       author: Adrian Pearse
       page: 2
@@ -2198,6 +2255,8 @@
     - title: "AGM report: Ian Rands retires after 40 years planting thousands of treesl"
       author: Jim Nage
       page: 1
+      tags:
+        - agm
       sub:
         - title: Review of 2012; Trees; Finances
         - title: Major memories of trees;
@@ -2296,6 +2355,8 @@
           page: 1
         - title: AGM and tree talk
           page: 1
+          tags:
+            - agm
     - title: New fungal diseases threaten yet more of our trees
       author: Jim Nagel
       page: 1
