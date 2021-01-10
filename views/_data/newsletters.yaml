@@ -446,7 +446,7 @@
     - title: Chairman’s notes
       author: John Brunsdon
       page: 1
-    - title: A trip to the Palace
+    - title: "A trip to the Palace: our chairman awarded the MBE"
       author: John Brunsdon
       page: 4
       url: brunsdonMBE
@@ -536,11 +536,11 @@
   number: 103
   editor: Jim Nagel
   contents:
-    - title: Chairman’s notes
+    - title: "Chairman’s notes: retirements, A361 traffic, CCTV"
       author: John Brunsdon
       page: 1
       url: chairnotes
-    - title: "Small bits: Kerbsite recycling in sight; Edible plates"
+    - title: "News bits: Recycling group hopes to see kerbside collection begin"
       page: 1
       url: newsbits
     - title: Planting a thousand imaginative trees
@@ -550,6 +550,7 @@
     - title: Dates for the spring and summer diary
       page: 2
     - title: Letter written while lorries thunder by
+      author: John Egan
       page: 4
       url: A361-traffic
     - title: Farewell to Jean Lester
@@ -558,24 +559,24 @@
     - title: A summary of the winter meetings
       page: 2
       sub:
-        - title: Why buildings are listed (a talk by Patrick Brown)
+        - title: "Why buildings are listed: a talk by Patrick Brown"
           author: Adrian Pearse
           url: listing-buildings
-        - title: Street’s distinctiveness (Richard Raynsford)
+        - title: "Street’s distinctiveness: a talk by Richard Raynsford"
           author: Adrian Pearse
           url: Street
-        - title: Retiring Abbey custodian on his years in Glastonbury
+        - title: David Morgan reviews his time as Abbey custodian
           author: John Brunsdon
           url: Abbey-custodian
-        - title: Outings to the Tribunal and cathedral
+        - title: Winter visits to Tribunal and cathedral
           url: tribunal-cathedral
-    - title: Harry Collyer, 92
+    - title: Harry Collyer dies at 92
       page: 4
       url: CollyerHarry
-    - title: Glastonbury gets Pride of Place on brochure
+    - title: Glastonbury gets Pride of Place on national brochure
       page: 4
       url: prideofplace
-    - title: Roy and Avril Coles retire
+    - title: Roy and Avril Coles retire from Middle Wick
       page: 4
       url: Coles-retire
     - title: Razing of Morlands ruins to start at last, but Hepworth “gallery” will survive
@@ -742,7 +743,8 @@
       page: 2
     - title: Summer attractions at the Abbey Barn
       page: 2
-    - title: Hidden history of Roman Catholicism in Glastonbury over the past 400 years
+    - title: The hidden history of Roman Catholicism in Glastonbury over the past 400 years
+      author: Michael Protheroe
       page: 3
       url: RChist
     - title: "A grand planting year by the tree troops: we reach 32,696"
@@ -750,6 +752,7 @@
       page: 4
       url: trees
     - title: Ernest John Claude Bromfield, 1916–2003
+      author: John Brunsdon
       page: 4
       url: Bromfield
 
@@ -793,7 +796,7 @@
         - bovetown
     - title: Dates for the diary
       page: 2
-    - title: John Cannon and the church (a talk by Prof. John Money)
+    - title: "John Cannon and the church: a talk by Prof John Money"
       author: Adrian Pearse
       page: 2
       url: cannon-church
@@ -906,10 +909,12 @@
       url: chair-notes
       sub:
         - title: Bushy Coombe; the Tor; the Abbey; Morlands; Wearyall Hill; Glastonbury’s 300 years
-    - title: Green burials at cemetery extension, a fine view too
+    - title: Green burials at cemetery extension, and a fine view too
+      author: John Brunsdon
       page: 1
       url: cemetery
-    - title: Edgarley herd sold
+    - title: Edgarley herd sold — Wick has only one remaining dairy farm out of 14
+      author: Jim Nagel
       page: 1
       url: edgarley
     - title: Dates for the diary
@@ -917,7 +922,7 @@
     - title: Ah, those walks and talks of summer
       page: 2
       sub:
-        - title: An August walk
+        - title: "An August walk: the Tor, Gog and Magog"
           author: Terry Carmen
           url: august-walk
         - title: Local distinctiveness (Richard Raynsford)
@@ -931,6 +936,7 @@
       author: Ian Rands
       page: 3
     - title: Satellite system to help maintain footpaths
+      author: Jim Nagel
       page: 3
       url: footpaths
     - title: "Global warming: what is a reliable gauge?"
@@ -938,6 +944,7 @@
       page: 4
       url: globalwarming
     - title: "A puzzle: Where was the Swan Inn?"
+      author: Adrian Pearse
       page: 4
       url: swaninn
 
@@ -1821,7 +1828,7 @@
         - title: Conservation Area Appraisal; Bouquets; Tree-planting
     - title: "25 years for petrol post-steam: canopy in carpark"
       page: 1
-    - title: “Bees and  mankind” after AGM
+    - title: “Bees and mankind” after AGM
       page: 1
     - title: A visit to Carymoor
       author: Ian Rands
