@@ -290,6 +290,7 @@ header.sandwich {
 	border-color: var(--green);
 	border-width: 1.5pt;
 	padding: 0.5rem 0;
+	margin-bottom: 1rem;
 }
 
 header.sandwich h1, header.sandwich h2, header.sandwich h3 {
