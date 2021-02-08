@@ -369,3 +369,8 @@ figure img {
 article + article {
 	margin-top: 4rem;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
+}

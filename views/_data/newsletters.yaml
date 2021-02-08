@@ -952,14 +952,14 @@
   number: 114
   editor: Jim Nagel
   contents:
-    - title: Chairman’s notes
+    - title: "Chairman’s notes: tercentenary, Morland progress, new housing"
       author: John Brunsdon
       page: 1
       url: chairnotes
     - title: Glass bridge over the Abbey crypt
       page: 1
       url: abbeybridge
-    - title: 14 volunteers helped plant tree number 33,333
+    - title: 14 volunteers help put in tree number 33,333
       author: Ian Rands
       page: 1
       url: tree33333
@@ -972,7 +972,7 @@
     - title: "Talks:"
       page: 2
       sub:
-        - title: Chalice Well’s history (talk by Tracey Cutting)
+        - title: Chalice Well’s written history goes back to 1210
           author: Adrian Pearse
           url: chalicewell
         - title: "Tim Hopkinson-Ball: Doctoral dissertation on Bligh Bond"
@@ -984,7 +984,7 @@
     - title: January farewell for two members
       page: 3
       sub:
-        - title: Maureen Luckes, champion of Wearyall trees
+        - title: Maureen Luckes, friend of Wearyall trees
           url: luckes
         - title: Douglas Smith, one of our founder members
           url: DouglasSmith
@@ -994,7 +994,7 @@
       url: swan-letter
     - title: Newsletter index on the net
       page: 3
-    - title: The 2004 AGM
+    - title: The society’s annual general meeting 2004
       page: 4
       url: agm2004
       sub:
@@ -1018,17 +1018,25 @@
       url: methodist
     - title: Dates for the spring and summer diary
       page: 2
-    - title: "Tercentenary talk: Why a mayor for Glastonbury? (summary of address by Robert Dunning)"
+    - title: "Why a mayor for Glastonbury? A summary of the Tercentenary talk"
       author: Adrian Pearse
       page: 2
       url: dunning-summary
+      tags:
+        - tercentenary
       sub:
-        - title: "Full text: Why a mayor for Glastonbury? [website only]"
-          author: Robert Dunning 
+        - title: "Why a mayor for Glastonbury, out of step with other towns?"
+          author: Robert Dunning
           url: dunning-full
-        - title: Photos at Tercentenary event in town hall, hosted by Conservation Society [website only]
+          websiteOnly: true
+          tags:
+            - tercentenary
+        - title: "Glastonbury celebrates 300 years of its charter: photos at Tercentenary event in town hall, hosted by Conservation Society"
           author: Jim Nagel
           url: tercentenary-pix
+          websiteOnly: true
+          tags:
+            - tercentenary
     - title: Footpath help
       author: Alan Fear
       page: 3
@@ -1046,11 +1054,14 @@
       page: 4
       url: somers
     - title: Labyrinth goes back to the starting point
+      author: Jim Nagel
       page: 5
       url: labyrinth
+      tags:
+        - tercentenary
     - title: Abbey work taking longer than thought
       page: 5
-    - title: Ultra-green plant to bottle dowsed water
+    - title: Ultra-green plant to bottle dowsed water from White Spring
       author: Jim Nagel
       page: 5
       url: bottle-water
@@ -1062,7 +1073,7 @@
     - title: Rhyneland estate to have 200 houses
       author: Jim Nagel
       page: 6
-    - title: Six houses by Holy Thorn in Roman Way (photos)
+    - title: Six houses proposed on Wearyall Hill near Holy Thorn
       page: 6
       url: romanway
     - title: Road work soon to start at Morlands
@@ -1339,9 +1350,10 @@
         - title: Green Fair
         - title: Local plan till 2027
         - title: Eco track
-    - title: Looking back over my 55 years in Glastonbury [website only]
+    - title: Looking back over my 55 years in Glastonbury
       author: John Brunsdon
       url: BrunsdonJohn55
+      websiteOnly: true
     - title: "Abbey centenary: people behind 1907 auction come to life"
       page: 1
     - title: Hardware shop has new owner
@@ -2005,9 +2017,10 @@
       url: redbrick
     - title: Newly published (or not)
       page: 4
-    - title: "The Chronicles of John Cannon: an abstract <I>[on website only]</I>"
+    - title: "The Chronicles of John Cannon: an abstract"
       author: Professor John Money
       url: cannon-abstract
+      websiteOnly: true
       tags:
         - cannon
 
@@ -2197,13 +2210,14 @@
       page: 3
       url: article4
       sub:
-        - title: "Update: Article 4 is now in effect [website only]"
+        - title: "Update: Article 4 is now in effect"
+          websiteOnly: true
     - title: Pennard lead stolen
       page: 3
     - title: Abbey’s medieval crafts on display this summer
       page: 4
       sub:
-        - title: A correction<span class="by">   </span>
+        - title: A correction
           author: Mary Gryspeerdt
           page: 4
     - title: Vice-chairman to step down at next AGM
