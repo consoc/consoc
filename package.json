@@ -4,6 +4,8 @@
   "description": "Glastonbury Conservation Society website",
   "main": "index.js",
   "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bart Nagel <bart@tremby.net>",
