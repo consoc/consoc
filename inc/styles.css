@@ -117,7 +117,7 @@ a:active {
 }
 
 @media (prefers-color-scheme: dark) {
-	#site-header img, #site-footer img {
+	.inverted-in-dark-mode {
 		filter: invert(1) hue-rotate(0.5turn);
 		mix-blend-mode: screen;
 	}
