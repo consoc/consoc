@@ -1119,7 +1119,8 @@
       page: 3
     - title: Litterhawk sweep-wash-suck streetcleaning machine
       page: 3
-    - title: Glastonbury’s war effort, 1939–45, that’s all
+    - title: A view from when peacetime was new
+      author: Jim Nagel
       page: 4
       url: victory
 
@@ -1131,12 +1132,8 @@
     - title: Chairman’s notes
       author: John Brunsdon
       page: 1
-      url: bovetown-dig
-      tags:
-        - bovetown
-      sub:
-        - title: Dr Pinnigar’s house (The Hollies, Bovetown)
-    - title: Glastonbury to become a World Heritage Site? Discuss at Friday’s AGM
+    - title: Glastonbury’s potential as a World Heritage Site
+      author: Anthony Ward
       page: 1
       url: worldheritage
     - title: Assuring the future at the Abbey
@@ -1162,8 +1159,16 @@
     - title: Mendip in Bloom
       page: 3
     - title: Bove Town dig confirms prehistoric human settlement in Glastonbury
+      author: Charles and Nancy Hollinrake
       page: 4
       url: bovetown-dig
+      tags:
+        - bovetown
+      sub:
+        - title: Dr Pinnigar’s house (The Hollies, Bovetown)
+          author: John Brunsdon
+    - title: A century-old postcard of Gog and Magog
+      url: gog-and-magog
 
 - roughDate: 2006-03
   displayDate: 2006 spring
