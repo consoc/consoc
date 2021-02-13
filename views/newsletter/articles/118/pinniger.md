@@ -10,7 +10,7 @@ the end of the 1920s. He lived there until his retirement in late 1963,
 when he moved to Bath.
 
 I love the story
-<span class="ednote">[retold by John Brunsdon in <a href="/newsletter/articles/#117">Newsletter 117</a>]</span>
+<span class="ednote">[retold by John Brunsdon in <a href="/newsletter/articles/#newsletter-117">Newsletter 117</a>]</span>
 of the magical “glass eye”, and so would he! In fact he
 had very poor sight in one eye, which necessitated a very thick lens on
 that side of the spectacles. I can imagine a child might well think that
