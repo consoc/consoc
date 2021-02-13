@@ -1216,6 +1216,8 @@
       author: Ian Tucker, chairman of BIRT
       page: 1
       url: Baily-Birt
+      tags:
+        - birt
     - title: Saturday walk and a date in the garden
       page: 2
     - title: "Talks in summary: tracing sculptures from the Abbey and terminated trains to Burnham"
@@ -1229,12 +1231,14 @@
       page: 3
       url: trees-bloom
     - title: World Heritage Site is about conservation, before tourism or economic growth
+      author: Anthony Ward
       page: 4
       url: world-heritage-conservation
     - title: Bulldozers busy at old tanyards; shop is next to go
       page: 4
       url: morland-clean
     - title: Kiwi pioneers kept Glastonbury time
+      author: Robin Huggins
       page: 4
       url: clock-nz
     - title: Train youngsters for Abbey chapel refurb?
@@ -1253,7 +1257,7 @@
     - title: County unveils World Heritage idea
       author: AW, NB
       page: 1
-    - title: Sunday outing for family of swans
+    - title: Sunday outing for the swan family
       author: Jim Nagel
       page: 1
       url: swans
@@ -1469,6 +1473,8 @@
     - title: Northover Mill seeks community use
       page: 4
       url: north-mill
+      tags:
+        - birt
     - title: Mendip environment forum
       author: Ian Rands
       page: 3
@@ -1492,6 +1498,8 @@
         - title: Glastonbury Spring Water visit
         - title: The Tanneries, Abbot’s mill
           page: 1
+      tags:
+        - birt
     - title: Change in the churches, old and new
       author: Jim Nagel
       page: 1
@@ -2261,11 +2269,17 @@
       url: redbrick
       sub:
         - title: New-look millstream
+          author: Jim Nagel
           page: 8
           url: baily-mill
+          tags:
+            - birt
         - title: Surprise at t’mill
+          author: Jim Nagel
           page: 8
           url: baily-mill
+          tags:
+            - birt
     - title: Tesco, Whitbread and Howdens leave just one three-acre plot seeking a developer
       page: 8
       url: morland-3acres-left
@@ -2357,6 +2371,8 @@
       author: Jim Nagel
       page: 3
       url: abbots-mill-baily
+      tags:
+        - birt
     - title: "Bees: pesticide is not the only threat"
       author: David Charles
       page: 4
