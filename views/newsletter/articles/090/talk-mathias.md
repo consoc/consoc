@@ -1,6 +1,10 @@
 <div class="multipic">
+<figure>
 <img src="../mathias1.jpg" alt="A film reel showing various photos of Glastonbury Tor">
+</figure>
+<figure>
 <img src="../mathias2.jpg" alt="A film reel showing various photos of Glastonbury Tor">
+</figure>
 </div>
 
 Michael Mathias and his slide collection were the main attraction at the

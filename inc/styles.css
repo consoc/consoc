@@ -203,7 +203,7 @@ img.center {
 	margin: 1rem auto;
 }
 
-img.limit {
+img {
 	max-width: 100%;
 	height: auto;
 }
@@ -352,11 +352,6 @@ figure {
 figure figcaption {
 	font-style: italic;
 	font-size: 0.85em;
-}
-
-figure img {
-	max-width: 100%;
-	height: auto;
 }
 
 .multipic {

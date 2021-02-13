@@ -27,8 +27,12 @@ seed. So much suitable habitat has been drained since the 19th century
 non-native poplars and indiscriminate felling of “unsafe” trees.
 
 <div class="multipic">
-<img class="limit" src="../poplar-leaf.jpg" alt="Illustration of a poplar branch with leaves, and one of its catkins. The leaves are green and teardrop-shaped, and attach to their branch by a thin stem. The catkin is made up of dozens of very small red flowers surrounding a shared stem, together making a chili pepper shape. The catkin dangles from the branch.">
-<img class="limit" src="../poplar-Butley.jpg" alt="A poplar tree seen at sunset against a countryside background. It is tall and has a very asymmetrical look, with branches pointing both up and down.">
+<figure>
+<img src="../poplar-leaf.jpg" alt="Illustration of a poplar branch with leaves, and one of its catkins. The leaves are green and teardrop-shaped, and attach to their branch by a thin stem. The catkin is made up of dozens of very small red flowers surrounding a shared stem, together making a chili pepper shape. The catkin dangles from the branch.">
+</figure>
+<figure>
+<img src="../poplar-Butley.jpg" alt="A poplar tree seen at sunset against a countryside background. It is tall and has a very asymmetrical look, with branches pointing both up and down.">
+</figure>
 </div>
 
 This is a fast-growing deciduous tree with broad green leaves a bit like

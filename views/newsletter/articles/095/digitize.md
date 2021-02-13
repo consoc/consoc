@@ -50,7 +50,9 @@ Edgarley.
 2018 update: “Things have moved on”
 -----------------------------------
 
-<img class="float-left" src="../SWHT_logo.png" alt="">
+<figure class="float-left">
+<img src="../SWHT_logo.png" alt="">
+</figure>
 
 Some years ago Somerset County Council combined all heritage services
 under one banner and later made them into a trust, including Devon as

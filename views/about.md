@@ -46,7 +46,9 @@ Read a summary of the society’s doings since 1971:
 
 [Read the society’s constitution](/dl/constitution.pdf).
 
-<img class="limit center" alt="Map of the Glastonbury Conservation Area showing a large area including the town centre, abbey ruins, and tor, shaded in green." src="/img/cons-area-map.jpg">
+<figure>
+<img alt="Map of the Glastonbury Conservation Area showing a large area including the town centre, abbey ruins, and tor, shaded in green." src="/img/cons-area-map.jpg">
+</figure>
 
 <aside class="boxout pink" style="margin-top: 4rem;">
 
