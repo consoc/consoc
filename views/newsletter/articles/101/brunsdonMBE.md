@@ -1,8 +1,10 @@
 <figure>
 <img src="../brunsdonMBE.jpg" alt="A man with short white hair and thick-rimmed glasses smiles at the camera. He wears a black jacket over a white collared shirt and patterned tie. He holds a medallion held in a presentation box.">
 <figcaption>
+
 John Brunsdon at Buckingham Palace with the MBE insignia he received
 from the Prince of Wales, “for services to conservation in Glastonbury”.
+
 </figcaption>
 </figure>
 
