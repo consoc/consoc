@@ -40,11 +40,11 @@ publication. There will be presentations by Kevin McCloud and Bob Ladd.
 Officers for 2006
 -----------------
 
-- *chairman*: John Brunsdon ([83 1283](tel:+441458831283))
-- *vice-chairman*: Ian Rands ([85 0509](tel:+441458830509))
-- *treasurer*: Dennis Allen ([83 2214](tel:+441458832214))
-- *secretary*: Janet Morland ([83 5238](tel:+441458835238))
-- *committee*:
+- *chairman:* John Brunsdon ([83 1283](tel:+441458831283))
+- *vice-chairman:* Ian Rands ([85 0509](tel:+441458830509))
+- *treasurer:* Dennis Allen ([83 2214](tel:+441458832214))
+- *secretary:* Janet Morland ([83 5238](tel:+441458835238))
+- *committee:*
   - Ena Allen
   - Neill Bonham
   - Roy Coles
