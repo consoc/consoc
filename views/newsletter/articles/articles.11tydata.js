@@ -20,6 +20,14 @@ module.exports = {
 
 		title: (data) => data.article?.title,
 
+		newsletterByNumber: (data) => {
+			const r = {};
+			for (const n of data.newsletters) {
+				r[n.number] = n;
+			}
+			return r;
+		},
+
 		// Get the newsletter this article was published in
 		newsletter: (data) => {
 			if (!/^\/newsletter\/articles\/\d\d\d\/[^/]+$/.test(data?.page?.filePathStem)) {

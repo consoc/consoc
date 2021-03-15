@@ -1,0 +1,12 @@
+<div class="boxout italic">
+Reprinted from
+{%- unless newsletter.hidden %}
+<a href="/newsletter/articles/#newsletter-{{ newsletter.number }}">
+{%- endunless -%}
+Newsletter {{ newsletter.number }}
+{%- unless newsletter.hidden -%}
+</a>
+{%- endunless -%}
+,
+dated {% if newsletter.displayDate %}{{ newsletter.displayDate }}{% else %}{{ newsletter.roughDate | date: "%Y %B" }}{% endif %}
+</div>

@@ -335,6 +335,16 @@ etc, you can specify that:
 %}
 ```
 
+If the article is pulled in from a different newsletter,
+include the `reprint` partial after the `new-article` partial
+but before the `article-header` partial:
+
+```liquid
+{% include reprint with newsletter: newsletterByNumber[123] %}
+```
+
+where `123` is the newsletter number.
+
 Dark mode
 ---------
 
