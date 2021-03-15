@@ -1303,7 +1303,7 @@
   number: 121
   editor: Jim Nagel
   contents:
-    - title: "Chairman’s notes: MBE presented to Ian Rands; report to AGM"
+    - title: "Chairman’s notes: MBE for Ian Rands, handing his shovel on after thousands of trees"
       author: John Brunsdon
       page: 1
       url: chairnotes-rands
@@ -1318,11 +1318,14 @@
     - title: Talks in summary
       author: Adrian Pearse
       sub:
-        - title: End of the Somerset&Dorset railway line on John Coles’s film
+        - title: Evercreech to Burnham on the S&D
+          author: Adrian Pearse
           url: rail-coles
         - title: Green men decoded (talk by Richard Raynsford)
+          author: Adrian Pearse
           url: greenmen
-        - title: Chilton Priory; the Chilkwell Street fragment (talk by Tim Hopkinson-Ball)
+        - title: Chilton Priory’s tower was built 1839; Bligh Bond added to it for Zodiac lady
+          author: Adrian Pearse
           url: chilton-chilkwell
     - title: Cathedral development project
       author: John Brunsdon
@@ -1340,6 +1343,7 @@
     - title: Officers for 2007
       page: 4
     - title: A trainload arrives for the 2006 annual meeting
+      author: Janet Morland
       page: 4
       url: agm2006
       tags:
@@ -1365,7 +1369,7 @@
       websiteOnly: true
     - title: "Abbey centenary: people behind 1907 auction come to life"
       page: 1
-    - title: Hardware shop has new owner
+    - title: Hardware shop has a new owner
       author: Jim Nagel
       page: 1
       url: millers
@@ -1374,11 +1378,14 @@
           author: Jim Nagel
           page: 2
           url: millers
+      tags:
+        - millers
     - title: Wash where you walk—Look! Colour!
       author: Jim Nagel
       page: 3
       url: footpath-wash
     - title: It’s a treat to put your feet on the street
+      author: Jim Nagel
       page: 3
       url: cobbles
     - title: Plastic at last to be collected
@@ -1386,7 +1393,8 @@
       url: recycle
     - title: "Picture puzzle: new buildings"
       page: 3
-    - title: "Anti-motor mystery: scroll falls from behind Chilkwell books;"
+    - title: "Anti-motor mystery: scroll materializes behind Chilkwell books;"
+      author: Jim Nagel
       page: 3
       url: scroll
     - title: The Abbey 1907–2007
@@ -1419,7 +1427,7 @@
       page: 7
     - title: John Brunsdon’s 55 years in Glastonbury
       page: 7
-    - title: Death of Vic Jones
+    - title: Death of Vic Jones, macebearer, Bere Lane chronicler
       author: John Brunsdon
       page: 7
       url: vicjones
@@ -1655,8 +1663,11 @@
           page: 1
         - title: Coombe House gardens
           page: 1
-        - title: Oldest shop shuts (Millers hardware)
+        - title: Oldest shop shuts
           page: 1
+          url: millers-shuts
+          tags:
+            - millers
         - title: Marchant’s Buildings
           page: 1
     - title: Still time to prepare for the self-reliance Harvest Show this September
@@ -2244,6 +2255,8 @@
     - title: Town gives thanks for the life of Keith Miller
       page: 4
       url: MillerKeith
+      tags:
+        - millers
     - title: Sixth-generation descendant visits Dod Lane farm roots
       author: John Brunsdon
       page: 5
