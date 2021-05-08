@@ -61,7 +61,7 @@ contacts:
 <td colspan="3" style="font-style: italic; text-align: center; opacity: 0.6;">vacancy – want to volunteer?</td>
 {% else %}
 <td>{{ mem.name }}</td>
-<td><a href="mailto:{{ mem.role }}@glastonburyconservation.org.uk">{{ mem.role }}@glastonburyconservation.org.uk</a></td>
+<td><a href="mailto:{{ mem.role }}@glastonburyconservation.org">{{ mem.role }}@glastonburyconservation.org</a></td>
 <td><a href="tel:{{ mem.phone }}">{{ mem.phoneDisplay }}</a></td>
 {% endif %}
 </tr>
