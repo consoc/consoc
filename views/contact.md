@@ -5,9 +5,7 @@ contacts:
   - role: chairman
     vacant: true
   - role: president
-    name: John Brunsdon
-    phoneDisplay: 83 1283
-    phone: +441458831283
+    vacant: true
   - role: vice-chairman
     name: Adrian Pearse
     phoneDisplay: (01749) 89 0216
