@@ -1,7 +1,7 @@
 Glastonbury Conservation Society website
 ========================================
 
-This website was originally built by my dad, Jim Nagel.
+This website was originally built by Jim Nagel.
 
 This is a rewrite, attempting to keep the look and feel very similar
 while modernizing the tech.
