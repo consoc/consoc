@@ -6,7 +6,7 @@ layout: layout.njk
 
 <article>
 
-{% include article-header with title: article.title, author: article.author, talkBy: article.talkBy %}
+{% include article-header with title: article.title, author: article.author, article.photographer, talkBy: article.talkBy %}
 
 {{ content | safe }}
 

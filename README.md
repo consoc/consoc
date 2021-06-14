@@ -77,6 +77,9 @@ The available fields are as follows:
 
   - `talkBy`: the person who gave the talk, if this article is a summary of a talk
 
+  - `photographer`: if an article is mainly or solely photos,
+    this credits the photographer
+
   - `page`: the page number on which the article appears in this newsletter.
     This can be a range or comma-separated list, such as `1–2` or `1, 3` if need
     be.

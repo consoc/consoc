@@ -6,6 +6,9 @@
 {%- if author %}
 <p class="author">{{ author | replace: " ", " " }}</p>
 {%- endif -%}
+{%- if photographer %}
+<p class="photographer">Photographer: {{ photographer | replace: " ", " " }}</p>
+{%- endif -%}
 {%- if talkBy %}
 <p class="talk-by">A talk by {{ talkBy }}</p>
 {%- endif -%}
