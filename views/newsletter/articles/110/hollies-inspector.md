@@ -43,7 +43,11 @@ of loss of privacy to neighbouring properties.
 Footnote
 --------
 
-<aside class="ednote">By John Brunsdon</aside>
+<aside class="ednote">
+
+By John Brunsdon
+
+</aside>
 
 This planning application proved very controversial, with a great deal
 of opposition from local residents.

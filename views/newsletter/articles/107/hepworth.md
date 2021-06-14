@@ -48,7 +48,9 @@ Putting the lid on it
 ---------------------
 
 <aside class="ednote">
+
 Reprinted from Morlands Magazine, spring 1961
+
 </aside>
 
 <figure>

@@ -57,7 +57,7 @@ Local conservation of beauty-spots and general care of our
 surroundings — which I wholeheartedly support — are another matter
 entirely.
 
-<aside class="ednote">
+<footer class="ednote">
 
 Steve Reed, who lives in Roman Way, is a longtime member of the
 Conservation Society. This is the first time he has written in the
@@ -71,4 +71,4 @@ Let’s have a debate on this topic. Brief rejoinders are invited for
 the next newsletter — see contacts list on home page. \[None came. —Ed.,
 2018\]
 
-</aside>
+</footer>

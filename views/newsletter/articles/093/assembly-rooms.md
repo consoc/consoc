@@ -129,7 +129,7 @@ for saying that modern productions there do indeed — as Boughton had
 foreseen — “embody the real experience of men and women, with a musical
 language rooted in English folk song.”
 
-<aside class="ednote">
+<footer class="ednote">
 
 Condensed from a feature by our member Bruce Garrard (with help from
 David Krepps, Nancy Hollinrake and Jan Morland) in the current issue of
@@ -137,4 +137,4 @@ his quarterly magazine Free State, £1.95 from Unique Publications or
 various shops. (Sorry to give him a plug three newsletters running, but
 he **will** continue to put out good stuff. —Ed.)
 
-</aside>
+</footer>

@@ -32,18 +32,24 @@ war.
 <figure>
 <img src="../tortoiseshell-dung_0810.jpg" alt="The butterfly stands on a muddy ground, with its wings held together vertically.">
 <figcaption>
+
 Wings shut, feeding off dung.
+
 </figcaption>
 </figure>
 <figure>
 <img src="../tortoiseshell-caterpillar.jpg" alt="A caterpillar sitting on a tree. it is green and brown, and is curved into a U shape. It has short sharp hair-like protrusions across its body.">
 <figcaption>
+
 A caterpillar.
+
 </figcaption>
 </figure>
 </div>
 
-<aside class="ednote">
+<footer class="ednote">
+
 Photos by Linda Watts, Cirencester:
 [butterflygarden.co.uk](http://butterflygarden.co.uk).
-</aside>
+
+</footer>

@@ -34,7 +34,7 @@ copy of the newsletter.
 ROBIN HUGGINS\
 <hugginsrobin@gmail.com>
 
-<aside class="ednote">
+<footer class="ednote">
 
 [Enlightenment](/newsletter/articles/120/clock-woollan/) came in the following newsletter
 (120)! —Ed.
@@ -42,4 +42,4 @@ ROBIN HUGGINS\
 Update 2013-12-01: The surname was wrongly given as “Huggett” in the
 printed newsletter 119 — corrected now.
 
-</aside>
+</footer>

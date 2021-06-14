@@ -94,12 +94,12 @@ minority in a town that has a very big heart.”
 
 ------------------------------------------------------------------------
 
-<aside class="ednote">
+<footer class="ednote">
 
 The printed edition of newsletter 102 had some tiny print at the bottom
 right corner of the main photo, bragging about editor’s first digital
 camera:
 
-> first photo by Jim Nagel using Olympus C2040z which was under tree
+First photo by Jim Nagel using Olympus C2040z which was under tree.
 
-</aside>
+</footer>

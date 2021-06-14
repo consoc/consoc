@@ -10,8 +10,8 @@
 
 <aside class="ednote">
 
-[Update 2019: A reader of the website has come up with [new
-information](/newsletter/articles/153/SwanInn)!]
+Update 2019: A reader of the website has come up with [new
+information](/newsletter/articles/153/SwanInn)!
 
 </aside>
 

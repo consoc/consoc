@@ -153,7 +153,7 @@
     - title: Glastonbury in Bloom 1999
       author: Jan Morland
       page: 1
-    - title: "1999 AGM : Wednesday, October 20"
+    - title: "1999 AGM: Wednesday, October 20"
       page: 1
       tags:
         - agm
@@ -1201,7 +1201,8 @@
       page: 2
     - title: "Talks in summary: revel in Butleigh, tower on Tor, absent birds, an 1896 holiday, visit to bird reserve, long-gone trains"
       page: 2–3
-    - title: Undoing 60 years of hedge-grubbing  Ian Rands
+    - title: Undoing 60 years of hedge-grubbing
+      author: Ian Rands
       page: 3
     - title: Accounts for 2005
       author: Dennis Allen
@@ -2328,8 +2329,8 @@
   contents:
     - title: From flood to freeze
       page: 1
-    - title: "AGM report: Ian Rands retires after 40 years planting thousands of treesl"
-      author: Jim Nage
+    - title: "AGM report: Ian Rands retires after 40 years planting thousands of trees"
+      author: Jim Nagel
       page: 1
       tags:
         - agm

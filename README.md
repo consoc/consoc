@@ -284,9 +284,9 @@ Or to one or more paragraphs:
 <div class="ednote">
 
 A paragraph note from the editor. As with boxes, use a more semantic tag than
-`div` if possible.
+`div` if possible, such as `aside`.
 
-</aside>
+</div>
 ```
 
 Or combined with other classes, like for a boxed ednote:

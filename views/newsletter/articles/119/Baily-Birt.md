@@ -69,8 +69,8 @@ that we are a credible local organization able to play a part in the
 regeneration at Northover with the aim of providing start-up workplaces
 to nurture new businesses locally.
 
-<aside class="ednote">
+<footer class="ednote">
 
 Meanwhile, [contractors are busy levelling the adjacent site of the Morland tannery](../morland-clean/).
 
-</aside>
+</footer>
