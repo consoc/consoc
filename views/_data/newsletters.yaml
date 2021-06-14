@@ -18,17 +18,21 @@
     - title: A summary of the automn lectures (& time for a new pun)
       page: 2
       sub:
-        - title: St Patrick’s Somerset birthplace (a talk by Harry Jelley)
+        - title: St Patrick’s Somerset birthplace
           author: Adrian Pearse
+          talkBy: Harry Jelley
           url: talk-st-patrick
         - title: Mike Mathias and the Tor
           author: Jan Morland
+          talkBy: Mike Mathias
           url: talk-mathias
-        - title: Stanton Drew circles and the north Somerset coast (Vince Russet)
+        - title: Stanton Drew circles and the north Somerset coast
           author: Adrian Pearse
+          talkBy: Vince Russet
           url: talk-stanton-drew
-        - title: Somerset Building Preservation Trust (Russell Lillford)
+        - title: Somerset Building Preservation Trust
           author: John Brunsdon
+          talkBy: Russell Lillford
           url: talk-som-bldg-pres
     - title: Notes from early minutes to commemorate John’s 25 years in the chair
       page: 4
@@ -196,8 +200,9 @@
       author: Ian Rands
       page: 3
       url: continental
-    - title: Mendip mines were main source of lead in the Roman empire (talk by Martin Oliver)
+    - title: Mendip mines were main source of lead in the Roman empire
       author: John Brunsdon
+      talkBy: Martin Oliver
       page: 3
       url: mendip-mines
     - title: "Coombe House: then and now …"
@@ -330,8 +335,9 @@
     - title: A twin for our Abbey?
       author: Peter Speke
       page: 4
-    - title: Glastonbury’s geological history (a talk by Susanna van Rose)
+    - title: Glastonbury’s geological history
       author: Adrian Pearse
+      talkBy: Susanna van Rose
       page: 2
       url: geology
     - title: English Nature—and butterflies—reward Geoff Brunt’s dedication
@@ -559,11 +565,13 @@
     - title: A summary of the winter meetings
       page: 2
       sub:
-        - title: "Why buildings are listed: a talk by Patrick Brown"
+        - title: Why buildings are listed
           author: Adrian Pearse
+          talkBy: Patrick Brown
           url: listing-buildings
-        - title: "Street’s distinctiveness: a talk by Richard Raynsford"
+        - title: Street’s distinctiveness
           author: Adrian Pearse
+          talkBy: Richard Raynsford
           url: Street
         - title: David Morgan reviews his time as Abbey custodian
           author: John Brunsdon
@@ -796,8 +804,9 @@
         - bovetown
     - title: Dates for the diary
       page: 2
-    - title: "John Cannon and the church: a talk by Prof John Money"
+    - title: John Cannon and the church
       author: Adrian Pearse
+      talkBy: Prof John Money
       page: 2
       url: cannon-church
       tags:
@@ -925,8 +934,9 @@
         - title: "An August walk: the Tor, Gog and Magog"
           author: Terry Carmen
           url: august-walk
-        - title: Local distinctiveness (Richard Raynsford)
+        - title: Local distinctiveness
           author: Adrian Pearse
+          talkBy: Richard Raynsford
           url: localdistinctiveness
     - title: A third brood of small tortoiseshells?
       author: John Brunsdon
@@ -975,11 +985,13 @@
         - title: Chalice Well’s written history goes back to 1210
           author: Adrian Pearse
           url: chalicewell
-        - title: "Tim Hopkinson-Ball: Doctoral dissertation on Bligh Bond"
+        - title: Doctoral dissertation on Bligh Bond
           author: Susan Rands
+          talkBy: Tim Hopkinson-Ball
           url: blighbond
-        - title: "Tony Nott: Vanished civic buildings in Wells"
+        - title: Vanished civic buildings in Wells
           author: Adrian Pearse
+          talkBy: Tony Nott
           url: wells-lost-buildings
     - title: January farewell for two members
       page: 3
@@ -1321,8 +1333,9 @@
         - title: Evercreech to Burnham on the S&D
           author: Adrian Pearse
           url: rail-coles
-        - title: Green men decoded (talk by Richard Raynsford)
+        - title: Green men decoded
           author: Adrian Pearse
+          talkBy: Richard Raynsford
           url: greenmen
         - title: Chilton Priory’s tower was built 1839; Bligh Bond added to it for Zodiac lady
           author: Adrian Pearse
@@ -1763,21 +1776,30 @@
     - title: Bridgwater visits us and we reciprocate
       page: 2
     - title: Summary of the winter talks
-      author: Adrian Pearse
       sub:
-        - title: Two unknown Glastonbury relics (talk by Tim Hopkinson-Ball)
+        - title: Two unknown Glastonbury relics
+          author: Adrian Pearse
+          talkBy: Tim Hopkinson-Ball
           page: 2
           url: relics
-        - title: The lake villages in context (Nancy Hollinrake)
+        - title: The lake villages in context
+          author: Adrian Pearse
+          talkBy: Nancy Hollinrake
           page: 2
           url: lake-villages
-        - title: Glastonbury heraldry (David Orchard)
+        - title: "Glastonbury heraldry: the Abbey, the Crown and the town"
+          author: Adrian Pearse
+          talkBy: David Orchard
           page: 2
           url: heraldry
-        - title: Earliest Glastonbury legend (Paul Ashdown)
+        - title: "Earliest Glastonbury legend: roots go deeper than a need to attract money"
+          author: Adrian Pearse
+          talkBy: Paul Ashdown
           page: 3
           url: legend
-        - title: Knights Templar in Somerset (Juliet Faith, Robert Williams)
+        - title: The Knights Templar in Somerset
+          author: Adrian Pearse
+          talkBy: Juliet Faith and Robert Williams
           page: 3
           url: knights-templar
     - title: Open days for green homes and gardens
@@ -1820,8 +1842,9 @@
           url: Bridgwater-visit
     - title: Peat Moors Centre to shut after season
       page: 2
-    - title: "Summary of Neill Bonham’s talk: Early Victorian Glastonbury"
+    - title: Early Victorian Glastonbury
       author: Adrian Pearse
+      talkBy: Neill Bonham
       page: 3
     - title: "Letters to the editor:"
       sub:
@@ -1878,8 +1901,9 @@
           page: 2
     - title: Fruit Trees for All
       page: 2
-    - title: The 12th-century east ends at Wells and Glastonbury (summary of talk by Jerry Sampson)
+    - title: The 12th-century east ends at Wells and Glastonbury
       author: Adrian Pearse
+      talkBy: Jerry Sampson
       page: 3
     - title: News in brief
       author: Jim Nagel
@@ -2465,8 +2489,9 @@
       author: John Brunsdon
       page: 2
       url: Knight-film
-    - title: Tree diseases increase as global trade imports pests (Guy Litchfield speaking at AGM)
+    - title: Tree diseases increase as global trade imports pests
       author: Adrian Pearse
+      talkBy: Guy Litchfield
       page: 2
       url: tree-diseases
     - title: Postal history
@@ -2511,23 +2536,28 @@
     - title: Antiquarian talks — catching up on a backlog
       author: Adrian Pearse
       sub:
-        - title: Glass production at the Saxon monastery (Cheryl Allum Green)
+        - title: Glass production at the Saxon monastery
+          talkBy: Cheryl Allum Green
           websiteOnly: true
           url: glass
         - title: An evening of Beere, the Abbey’s great builder
           author: Adam Stout
           page: 6
           url: beere
-        - title: Glastonbury as the “Second Rome” (Tim Hopkinson-Ball)
+        - title: Glastonbury as the “Second Rome”
+          talkBy: Tim Hopkinson-Ball
           page: 6
           url: second-rome
-        - title: Secular and monastic communities (Jon Cannon)
+        - title: Secular and monastic communities
+          talkBy: Jon Cannon
           page: 7
           url: secular-monastic
-        - title: Recent archaeology in Somerset (Robert Croft)
+        - title: Recent archaeology in Somerset
+          talkBy: Robert Croft
           page: 7
           url: archeology
-        - title: Glastonbury and the Shroud of Turin (Paul Ashdown)
+        - title: Glastonbury and the Shroud of Turin
+          talkBy: Paul Ashdown
           page: 7
           url: shroud
     - title: John Morland, 1930–2014
@@ -2555,21 +2585,26 @@
       author: John Brunsdon
       page: 2
       url: abbeybarn
-    - title: Baltonsborough and Australia’s early prosperity (talk by Owen Mace at Abbey House)
+    - title: Baltonsborough and Australia’s early prosperity
       author: Adrian Pearse
+      talkBy: Owen Mace
       page: 2
-    - title: The postal history of Glastonbury and district (talk by Allen Cotton)
+    - title: The postal history of Glastonbury and district
       author: Adrian Pearse
+      talkBy: Allen Cotton
       page: 3
-    - title: The First World War in 3D (talk by Jim Woodcock at AGM)
+    - title: The First World War in 3D
+      talkBy: Jim Woodcock
       page: 3
       url: 3D-warphotos
     - title: Antiquarian Society talks
       author: Adrian Pearse
       page: 4
       sub:
-        - title: The life and times of the Revd Charles Marson, 1859–1914 (talk by David Sutcliffe)
-        - title: John Dee, St Dunstan and the Glastonbury elixir (talk by Paul Ashdown)
+        - title: The life and times of the Revd Charles Marson, 1859–1914
+          talkBy: David Sutcliffe
+        - title: John Dee, St Dunstan and the Glastonbury elixir
+          talkBy: Paul Ashdown
 
 - roughDate: 2015-07
   number: 143
@@ -2687,8 +2722,9 @@
       page: 4
     - title: Cliff in Wick Hollow
       page: 4
-    - title: War effort brought profound changes to the Brue Valley (Bruce Garrard talk)
+    - title: War effort brought profound changes to the Brue Valley
       author: Jim Nagel
+      talkBy: Bruce Garrard
       page: 4
       url: brue-and-war
 
@@ -2740,7 +2776,8 @@
         - title: The Tribunal; footpaths; treasurer’s report
     - title: The Tribunal
       page: 1
-    - title: Glastonbury Abbey 1066–1126 — sixty fascinating years (talk by Tim Hopkinson-Ball)
+    - title: Glastonbury Abbey 1066–1126 — sixty fascinating years
+      talkBy: Tim Hopkinson-Ball
       page: 1
     - title: Planning applications for the month
       page: 1
@@ -2792,7 +2829,8 @@
       author: Jim Nagel
       page: 2
       url: web-update
-    - title: When and where was the River Brue diverted (Bruce Gerrard talk at the Antiquarian Society)
+    - title: When and where was the River Brue diverted
+      talkBy: Bruce Garrard
       page: 2
     - title: 350 past newsletter articles online in full
       author: Jim Nagel

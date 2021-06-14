@@ -75,6 +75,8 @@ The available fields are as follows:
 
   - `author`: the article author
 
+  - `talkBy`: the person who gave the talk, if this article is a summary of a talk
+
   - `page`: the page number on which the article appears in this newsletter.
     This can be a range or comma-separated list, such as `1–2` or `1, 3` if need
     be.

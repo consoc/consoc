@@ -5,5 +5,8 @@
 <h{{level}}>{{ title }}</h{{level}}>
 {%- if author %}
 <p class="author">{{ author | replace: " ", " " }}</p>
-{%- endif %}
+{%- endif -%}
+{%- if talkBy %}
+<p class="talk-by">A talk by {{ talkBy }}</p>
+{%- endif -%}
 </header>

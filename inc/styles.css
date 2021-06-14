@@ -306,6 +306,12 @@ article header p.author {
 	margin-left: 1rem;
 }
 
+article header p.talk-by {
+	font-family: var(--sans);
+	font-size: 120%;
+	margin-bottom: 0;
+}
+
 table th {
 	text-align: start;
 }

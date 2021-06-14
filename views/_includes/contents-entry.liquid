@@ -8,6 +8,9 @@ Newsletter {{ newsletterNumber }}:
 {%- if article.url -%}
 </a>
 {%- endif -%}
+{%- if article.talkBy %}
+(a talk by {{ article.talkBy }})
+{%- endif -%}
 {%- if article.author %}
 <cite class="author">{{ article.author }}</cite>
 {%- endif -%}
