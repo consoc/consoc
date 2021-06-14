@@ -1,5 +1,6 @@
-Mendip passes Magdalene almshouses to church [JN]{.by}
-======================================================
+<figure>
+<img src="../almshouses40.jpg" alt="A very old drawing of a stone building. A large arched doorway is in the centre, with a small window on one side. It has a flat roof in the centre, and the roof slopes down on each side. Out front is a well.">
+<figcaption>
 
 Built about 1258 above pure flowing waters, this type of hospice was
 very common in the Middle Ages. Few now remain. This one, in Magdalene
@@ -8,6 +9,9 @@ The view is from the west, where 1960s flats now stand. The door leads
 to a narrow passageway to the chapel at the east end, between the two
 ranges of almshouses shown in the drawing. The nearer range was
 demolished in the 1960s.
+
+</figcaption>
+</figure>
 
 The 13th-century St Margaret’s almshouses off Magdalene Street are to be
 given to Bath and Wells diocese by Mendip Housing, which nearby has

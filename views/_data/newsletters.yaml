@@ -1512,7 +1512,7 @@
   number: 124
   editor: Jim Nagel
   contents:
-    - title: Chairman’s notes
+    - title: "Chairman’s notes: martens, walks, meetings, new buildings, old mill"
       author: John Brunsdon
       url: chairnotes
       sub:
@@ -1531,11 +1531,11 @@
           page: 1
     - title: "Summer outings and talks:"
       sub:
-        - title: Butterfly walk
+        - title: "Summer outing: butterflies on the Poldens"
           author: Richard Montagu
           page: 2
           url: walk-butterflies
-        - title: Carymoor visit
+        - title: "Summer outing to our trees at Carymoor, once the Dimmer dump"
           author: Debbie Fear
           page: 2
           url: walk-carymoor
@@ -1551,7 +1551,7 @@
       url: architects
     - title: Civic Trust fights loss of local voice
       page: 4
-    - title: Magdalene almshouses go to church
+    - title: Mendip passes Magdalene almshouses to church
       author: Jim Nagel
       page: 4
       url: almshouses
@@ -1566,21 +1566,21 @@
   number: 125
   editor: Jim Nagel
   contents:
-    - title: Chairman’s notes
+    - title: "Chairman’s notes: new housing; climate change"
       author: John Brunsdon
       page: 1
       url: chairnotes
       sub:
         - title: Building goes on
         - title: Climate change
-    - title: "New shops: Pianos, Boots and fruits join witches in the High Street"
+    - title: "Pianos, Boots and fruits join witches in the High Street"
       author: Jim Nagel
       page: 1
       url: shopsnew
     - title: Paul the cycling watercolourist
       author: Jim Nagel
       page: 1
-    - title: Gauntlet wins regional award for building quality
+    - title: Gauntlet wins regional award for quality of building
       author: Jim Nagel
       page: 1
       url: gauntlet
@@ -1619,7 +1619,8 @@
     - title: Address abandoned to e-deluge
       author: Jim Nagel
       page: 5
-    - title: 2007 AGM report
+    - title: "2007 AGM report: Janet puts on second hat from Dennis"
+      author: Jim Nagel, Matthew Bell
       url: agm2007
       tags:
         - agm
@@ -1721,7 +1722,7 @@
       page: 1
       url: morland
       sub:
-        - title: Press releases from Regional Development Agency — full text
+        - title: Press statements from the Southwest Regional Development Agency
           url: RDAreleases
     - title: Dates for the winter and spring diary
       page: 2
@@ -1757,13 +1758,13 @@
   number: 128
   editor: Jim Nagel
   contents:
-    - title: Chairman’s notes
+    - title: "Chairman’s notes: good design; local listing; Wick trees"
       author: John Brunsdon
       page: 1
       url: chair
       sub:
         - title: Good design; Local listing; Wick trees; Poldens; Litter
-    - title: "Light on the path: lantern at Methodist church"
+    - title: "Light on the path: lamp restored at Methodist gate"
       author: Martyn Webb
       page: 1
       url: methodist-lamp
