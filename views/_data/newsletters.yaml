@@ -790,6 +790,7 @@
 - roughDate: 2004-01
   displayDate: 2004 January–February
   number: 110
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -1825,13 +1826,16 @@
     - title: Chairman’s notes
       author: John Brunsdon
       page: 1
+      url: chairnotes
       sub:
         - title: Bushy Coombe; Harvest volunteers
     - title: "A tale of two houses: planning refusals followed eventually by accolades"
       author: John Brunsdon
+      url: two-houses
       page: 1
     - title: "A third tale: no, yes, eventual award?"
       author: Jim Nagel
+      url: third-tale
       page: 1
     - title: Bridgwater visits Glastonbury (with side-trip to hospital) …
       author: Martyn Webb
@@ -1847,38 +1851,51 @@
           webOnly: true
     - title: Peat Moors Centre to shut after season
       page: 2
+      url: peat-moors
     - title: Early Victorian Glastonbury
       author: Adrian Pearse
       talkBy: Neill Bonham
+      url: early-victorian-glastonbury
       page: 3
     - title: "Letters to the editor:"
       sub:
         - title: 1940s boy in Glastonbury; getting our Edwards right
           author: David Orchard
+          url: david-orchard-letter
           page: 3
-        - title: Medallions and  mayoral vanity
+        - title: Medallions and mayoral vanity
           author: F. N. Carling
+          url: carling-letter
           page: 3
+          tags:
+            - medallion
     - title: Summer events at Abbey Barn
+      url: abbey-barn
       page: 3
-    - title: Archive how-to
-      page: 3
+      sub:
+        - title: Archive how-to
+          page: 3
     - title: Harvest show 2009
+      url: harvest-show
       page: 3
     - title: Happenings at St Ben’s Church
       author: Roger Parsons
+      url: st-bens-church
       page: 4
     - title: Heritage transforms into a Co-op store
       author: Jim Nagel
+      url: heritage
       page: 4
     - title: New chapter for the Abbey’s new century
       author: Jim Nagel
+      url: new-chapter-for-abbey
       page: 4
     - title: "Victorian bellringers' graffiti uncovered in St John's tower"
       author: John Brunsdon
       page: 4
       url: bellringers
     - title: Building begins at Morland site at last
+      url: morlands
       page: 4
 
 - roughDate: 2009-11
