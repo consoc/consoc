@@ -56,6 +56,7 @@ Overall, the website has had a behind-the-scenes technical makeover to make it v
 
 <!-- TODO: implement search feature or remove/change this copy -->
 
+<!--
 **Search** is a further important new feature.
 Click the button at the top of any page.
 Enter any word or phrase and press Go.
@@ -64,6 +65,7 @@ You can click on the relevant result to go exactly to that page.
 For this feature we must thank an excellent service called Freefind.
 
 A link to the **Table of Contents** for all newsletters since 1999 appears alongside the Search box.
+-->
 If you have the original printed newsletters, the [Table of Contents](/newsletter/articles/) shows you the relevant page number for each article.
 
 And what about the newsletters from before 1999?
