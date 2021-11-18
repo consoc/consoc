@@ -1040,13 +1040,13 @@
         - title: "Why a mayor for Glastonbury, out of step with other towns?"
           author: Robert Dunning
           url: dunning-full
-          websiteOnly: true
+          webOnly: true
           tags:
             - tercentenary
         - title: "Glastonbury celebrates 300 years of its charter: photos at Tercentenary event in town hall, hosted by Conservation Society"
           author: Jim Nagel
           url: tercentenary-pix
-          websiteOnly: true
+          webOnly: true
           tags:
             - tercentenary
     - title: Footpath help
@@ -1380,7 +1380,7 @@
     - title: Looking back over my 55 years in Glastonbury
       author: John Brunsdon
       url: BrunsdonJohn55
-      websiteOnly: true
+      webOnly: true
     - title: "Abbey centenary: people behind 1907 auction come to life"
       page: 1
     - title: Hardware shop has a new owner
@@ -2070,7 +2070,7 @@
     - title: "The Chronicles of John Cannon: an abstract"
       author: Professor John Money
       url: cannon-abstract
-      websiteOnly: true
+      webOnly: true
       tags:
         - cannon
 
@@ -2261,7 +2261,7 @@
       url: article4
       sub:
         - title: "Update: Article 4 is now in effect"
-          websiteOnly: true
+          webOnly: true
     - title: Pennard lead stolen
       page: 3
     - title: Abbey’s medieval crafts on display this summer
@@ -2540,7 +2540,7 @@
       sub:
         - title: Glass production at the Saxon monastery
           talkBy: Cheryl Allum Green
-          websiteOnly: true
+          webOnly: true
           url: glass
         - title: An evening of Beere, the Abbey’s great builder
           author: Adam Stout
