@@ -44,7 +44,7 @@ Articles or letters or comments from members are always welcome.
 Newsletter 150 came out in autumn 2018.
 To celebrate the milestone, around 400 articles (so far) from the past 25 years of newsletters are now online in full here on the Glastonbury Conservation Society website.
 
-Or [see the Table of Contents](/newsletter/articles/), which gives a complete list of everything published in all newsletters since 1999.
+[See the Table of Contents](/newsletter/articles/), which gives a complete list of everything published in all newsletters since 1999.
 Articles that are online in full are linked — click to go straight to that article.
 
 You’ll find that in many cases the photo that was originally published black-and-white back then is online now in full colour.
@@ -64,7 +64,7 @@ You can click on the relevant result to go exactly to that page.
 For this feature we must thank an excellent service called Freefind.
 
 A link to the **Table of Contents** for all newsletters since 1999 appears alongside the Search box.
-If you have the original printed newsletters, the Table of Contents shows you the relevant page number for each article.
+If you have the original printed newsletters, the [Table of Contents](/newsletter/articles/) shows you the relevant page number for each article.
 
 And what about the newsletters from before 1999?
 Well, either they exist only on paper or as computer files archived on cartridges from a device no longer in use.
