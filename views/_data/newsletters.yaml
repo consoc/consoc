@@ -1833,15 +1833,18 @@
     - title: "A third tale: no, yes, eventual award?"
       author: Jim Nagel
       page: 1
-    - title: Bridgwater visits Glastonbury…
+    - title: Bridgwater visits Glastonbury (with side-trip to hospital) …
       author: Martyn Webb
       page: 2
       url: Bridgwater-visit
       sub:
-        - title: And we find Bridgwater more colourful than we thought
+        - title: … And we find Bridgwater more colourful than we thought
           author: Jim Nagel
           page: 2
           url: Bridgwater-visit
+        - title: Dr Peter Cattermole, 1950–2015
+          url: Bridgwater-visit
+          webOnly: true
     - title: Peat Moors Centre to shut after season
       page: 2
     - title: Early Victorian Glastonbury
@@ -1871,7 +1874,7 @@
     - title: New chapter for the Abbey’s new century
       author: Jim Nagel
       page: 4
-    - title: Bellchamber grafitti at St John’s
+    - title: "Victorian bellringers' graffiti uncovered in St John's tower"
       author: John Brunsdon
       page: 4
       url: bellringers
