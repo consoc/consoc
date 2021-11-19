@@ -25,7 +25,7 @@ Those which are available are linked.
 {{ nl.notes }}
 
 {% if nl.pdfAvailable %}
-This newsletter is available as a [PDF] (/newsletter/pdf/{{ nl.number | pad: 3 }}.pdf) download.
+This newsletter is available as a [PDF](/newsletter/pdf/{{ nl.number | pad: 3 }}.pdf) download.
 {% endif %}
 
 {% include contents with nl %}
