@@ -36,7 +36,7 @@ contacts:
     name: Mike Smyth
     phoneDisplay: 075 3224 0620
     phone: +447532240620
-- role: newsletter
+  - role: newsletter
     name: Ian Mutch
     phoneDisplay: 077 9974 4161
     phone: +447799744161
