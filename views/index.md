@@ -25,6 +25,13 @@ Contact Mike Smyth, [075 3324 0620](tel:+447533240620).
 	level: 2,
 %}
 
+<figure class="float-right" style="width: 10em">
+<img src="/img/jim.png" alt="Jim Nagel RIP, July 29th 1944 - March 21st 2020">
+<figcaption>
+Former editor of this website Jim Nagel: July 29th 1944 - March 21st 2020.
+</figcaption>
+</figure>
+
 Jim was born and grew up in Canada, taking a degree in Mathematics and German at the University of Waterloo, also meeting Viola during those years. He remained after graduation as editor of the university paper, followed by beginning a journalism career at the local newspaper, the Kitchener Waterloo
 Record.
 
@@ -38,6 +45,8 @@ Newsletter, which he edited for many years, combined with the website, bear abun
 we realise how much his efforts underpinned our activities and presence.
 
 Diagnosed with cancer in 2011, Jim continued to undertake his various roles as far as possible, and produced the previous Conservation Society Newsletter in his typical format earlier this year, which was much applauded at the time, and seen as a return to normality just as a world pandemic was to make 'normality' an untouchable concept. We all owe him a great debt of gratitude, and working with him over many years, if only in a small way, was indeed a great pleasure.
+
+To read more tributes please see the latest newsletter which can be downloaded <a href="./newsletter/pdf/155.pdf">here</a>
 
 </article>
 
