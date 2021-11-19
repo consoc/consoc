@@ -39,7 +39,7 @@ we realise how much his efforts underpinned our activities and presence.
 
 Diagnosed with cancer in 2011, Jim continued to undertake his various roles as far as possible, and produced the previous Conservation Society Newsletter in his typical format earlier this year, which was much applauded at the time, and seen as a return to normality just as a world pandemic was to make 'normality' an untouchable concept. We all owe him a great debt of gratitude, and working with him over many years, if only in a small way, was indeed a great pleasure.
 
-To read more tributes please see the latest newsletter which can be downloaded <a href="./newsletter/pdf/155.pdf">here</a>
+To read more tributes please see the latest newsletter which can be <a href="/newsletter/articles/#155">downloaded here</a>
 
 </article>
 
