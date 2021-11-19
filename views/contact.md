@@ -11,7 +11,7 @@ contacts:
     phoneDisplay: (01749) 89 0216
     phone: +441749890216
   - role: secretary
-    vacant: true
+    vacant: Amanda Montague
   - role: treasurer
     name: Kevin Mitchell
     phoneDisplay: 079 6887 6440
@@ -19,7 +19,9 @@ contacts:
   - role: membership
     vacant: true
   - role: trees
-    vacant: true
+    name: Mike Smyth
+    phoneDisplay: 075 3224 0620
+    phone: +447532240620
   - role: planning
     name: Bill Knight
     phoneDisplay: 83 5144
@@ -29,15 +31,15 @@ contacts:
     phoneDisplay: 83 4841
     phone: +441458834841
   - role: website
-    vacant: true
-  - role: footpaths
-    name: Stuart Marsh
-    phoneDisplay: 83 4727
-    phone: +441458834727
+    name: Sean Miller
   - role: footpaths
     name: Mike Smyth
     phoneDisplay: 075 3224 0620
     phone: +447532240620
+- role: newsletter
+    name: Ian Mutch
+    phoneDisplay: 077 9974 4161
+    phone: +447799744161
 ---
 
 # How to contact Conservation Society committee members
