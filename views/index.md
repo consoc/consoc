@@ -25,10 +25,10 @@ Contact Mike Smyth, [075 3324 0620](tel:+447533240620).
 	level: 2,
 %}
 
-<figure class="float-right" style="width: 240px; height: 500px;">
-<img src="/img/jim.png" width="231" height="409" alt="Jim Nagel RIP, July 29th 1944 - March 21st 2020">
+<figure class="float-right" style="width: 10em; margin-bottom: 10px;">
+<img src="/img/jim.png" alt="Jim Nagel RIP, July 29th 1944 - March 21st 2020"> 
 <figcaption>
-Former editor of this website Jim Nagel: July 29th 1944 - March 21st 2020.
+Jim Nagel: 1944-2020.
 </figcaption>
 </figure>
 
