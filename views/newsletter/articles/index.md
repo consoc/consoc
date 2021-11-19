@@ -18,7 +18,7 @@ Those which are available are linked.
 {% endif %}
 
 <section id="newsletter-{{ nl.number }}">
-	<a name="{{ n1.number }}"></a> <!-- anchor tag so that can link directly to an edition from elsewhere on site -->
+	<a name="{{ nl.number }}"></a> <!-- anchor tag so that can link directly to an edition from elsewhere on site -->
 
 ## <span class="newsletter-number">Newsletter {{ nl.number }}:</span> {% if nl.displayDate %}{{ nl.displayDate }}{% else %}{{ nl.roughDate | date: "%Y %B" }}{% endif %}
 
