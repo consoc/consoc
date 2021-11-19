@@ -14,7 +14,7 @@ layout: layout.njk
 
 The society has so far planted **51,800** trees in and around Glastonbury.
 Tree-planting volunteers always welcome.
-Contact Alan Fear, [83 3185](tel:+441458833185).
+Contact Mike Smyth, [075 3324 0620](tel:+447533240620).
 
 </section>
 
@@ -22,7 +22,6 @@ Contact Alan Fear, [83 3185](tel:+441458833185).
 
 {% include article-header with
 	title: "Jim Nagel Tribute",
-	author: "Ian Mutch (from Newsletter)",
 	level: 2,
 %}
 
