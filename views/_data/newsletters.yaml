@@ -55,6 +55,8 @@
       url: cyclebridge
     - title: “Large-scale commercial” plan makes Morland project costly
       url: freestate-morlands
+      tags:
+        - morlands
 
 - roughDate: 1999-04
   number: 91
@@ -184,6 +186,8 @@
       sub:
         - title: "Millennium projects: kissing-gate, town trail, Holy Thorn at St Ben’s"
         - title: The Tribunal; more Morlands delay; new system for council meetings
+          tags:
+            - morlands
         - title: Tree schemes; footpath coordinator needed
     - title: "The AGM: Same tree radius and a new secretary"
       page: 1, 3
@@ -377,6 +381,8 @@
       author: Jim Nagel
       page: 1
       url: morland-RDA
+      tags:
+        - morlands
     - title: Dates for summer evenings
       page: 2
     - title: Book tells colourful story of our 19th-century canal
@@ -591,6 +597,8 @@
       author: Jim Nagel
       page: 1
       url: morland-hepworth
+      tags:
+        - morlands
 
 - roughDate: 2002-07
   number: 104
@@ -603,6 +611,8 @@
       page: 1
     - title: Morlands workers invited back to plan action at tannery
       page: 1
+      tags:
+        - morlands
     - title: A visit to the secret Chalice garden
       author: John Brunsdon
       page: 2
@@ -642,6 +652,8 @@
       page: 2
     - title: 400 come to see plan for Morlands
       page: 1
+      tags:
+        - morlands
     - title: Auditors give Mendip a “one star” rating
       page: 2
     - title: Revels round Romulus and Remus
@@ -738,6 +750,8 @@
       url: abbey-watercolours
     - title: Eyesore begins to vanish at Morland site
       page: 1
+      tags:
+        - morlands
     - title: BBC researcher illuminates John Cannon’s Glastonbury
       author: Adrian Pearse
       page: 2
@@ -919,6 +933,8 @@
       url: chair-notes
       sub:
         - title: Bushy Coombe; the Tor; the Abbey; Morlands; Wearyall Hill; Glastonbury’s 300 years
+          tags:
+            - morlands
     - title: Green burials at cemetery extension, and a fine view too
       author: John Brunsdon
       page: 1
@@ -967,6 +983,8 @@
       author: John Brunsdon
       page: 1
       url: chairnotes
+      tags:
+        - morlands
     - title: Glass bridge over the Abbey crypt
       page: 1
       url: abbeybridge
@@ -1091,6 +1109,8 @@
       url: romanway
     - title: Road work soon to start at Morlands
       page: 6
+      tags:
+        - morlands
       sub:
         - title: 1,300 Bauhaus panes down to zero
           photographer: Jim Nagel
@@ -1233,6 +1253,7 @@
       url: Baily-Birt
       tags:
         - birt
+        - morlands
     - title: Saturday walk and a date in the garden
       page: 2
     - title: "Talks in summary: tracing sculptures from the Abbey and terminated trains to Burnham"
@@ -1300,6 +1321,8 @@
     - title: Old Morlands plans still exist
       page: 3
       url: morland-old-plans
+      tags:
+        - morlands
     - title: Rare finds on the internet auction — and in the Town Hall
       author: Adrian Pearse
       page: 4
@@ -1330,6 +1353,8 @@
       author: John Brunsdon
       page: 1
       url: morland-developers
+      tags:
+        - morlands
     - title: Talks in summary
       author: Adrian Pearse
       sub:
@@ -1510,6 +1535,8 @@
     - title: Morlands traffic lights
       author: Jim Nagel
       page: 4
+      tags:
+        - morlands
 
 - roughDate: 2007-11
   number: 124
@@ -1707,6 +1734,8 @@
       page: 3
     - title: Medallion from 1911 found in Hampshire
       page: 3
+      tags:
+        - medallion
     - title: What is Glastonbury made of?
       author: Susanna van Rose
       page: 4
@@ -1728,6 +1757,8 @@
       sub:
         - title: Press statements from the Southwest Regional Development Agency
           url: RDAreleases
+      tags:
+        - morlands
     - title: Dates for the winter and spring diary
       page: 2
       sub:
@@ -1754,6 +1785,8 @@
     - title: Medallion was for George V in 1911
       author: David Orchard
       page: 3
+      tags:
+        - medallion
     - title: St Margaret’s Chapel and Almshouses
       author: Liz Pearson
       page: 4
@@ -1779,6 +1812,8 @@
       author: Jim Nagel
       page: 1
       url: morland
+      tags:
+        - morlands
     - title: Bridgwater visits us and we reciprocate
       page: 2
     - title: Summary of the winter talks
@@ -1901,6 +1936,8 @@
     - title: Building begins at Morland site at last
       url: morlands
       page: 4
+      tags:
+        - morlands
 
 - roughDate: 2009-11
   number: 130
@@ -2000,6 +2037,8 @@
       author: Jim Nagel
       page: 4
       url: civicvoice
+      tags:
+        - morlands
       sub:
         - title: Wessex Muster
           page: 4
@@ -2107,6 +2146,8 @@
       page: 1
       sub:
         - title: Starting with a bang; Trees at Morlands; Local Development Framework; Holy Thorn
+          tags:
+            - morlands
     - title: "The artist and the Thorn: the late Paul Matten"
       page: 1
     - title: Madonna statue by Gill finds home in Abbey
@@ -2174,6 +2215,8 @@
     - title: Morland site has new owners again
       author: Jim Nagel
       page: 1
+      tags:
+        - morlands
     - title: Double jubilee
       page: 1
     - title: Giant hornets spied at Pennard
@@ -2204,6 +2247,8 @@
     - title: New players in the long-running saga of the Morland site
       author: Jim Nagel
       page: 4
+      tags:
+        - morlands
       sub:
         - title: Beckery Island Regneration Trust (BIRT); Maidencroft; Cubex
         - title: History
