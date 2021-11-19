@@ -8,8 +8,7 @@ title: About the society
 It is somewhat startling to calculate how long the Conservation Society has been doing its bit for Glastonbury.
 It is more than 15% of the tercentenary that the town recently celebrated: 48 out of the now 315 years.
 
-The society was formed in haste in 1971 in order to save the Crown Hotel in the central Market Place from being pulled down, as had several interesting medieval buildings nearby; swift spot-listing saved a number of other sites too.
-Today [the Crown survives](/newsletter/articles/100/crown/) as a building but is currently awaiting a new owner.
+The society was formed in haste in 1971 in order to save the Crown Hotel in the central Market Place from being pulled down, as had several interesting medieval buildings nearby; swift spot-listing saved a number of other sites too.  The Crown has recently reopened (2021) after extensive renovation.
 
 Another Conservation Society project was to rescue some of Glastonbury’s pre-Beeching heritage: [the canopy from the railway station](/newsletter/articles/050/history1/#canopy), by relocating it (ironically?) amid parked cars in the main central carpark, where it makes two acres of asphalt easier on the eye.
 The trees in the carparks are the society’s work too.
