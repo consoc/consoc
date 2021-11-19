@@ -3,7 +3,9 @@ layout: layout.njk
 title: Contact
 contacts:
   - role: chairman
-    vacant: true
+    name: Adrian Pearse (Acting)
+    phoneDisplay: (01749) 89 0216
+    phone: +441749890216
   - role: president
     vacant: true
   - role: vice-chairman
@@ -11,7 +13,9 @@ contacts:
     phoneDisplay: (01749) 89 0216
     phone: +441749890216
   - role: secretary
-    vacant: Amanda Montague
+    name: Amanda Montague
+    phoneDisplay: 
+    phone: 
   - role: treasurer
     name: Kevin Mitchell
     phoneDisplay: 079 6887 6440
