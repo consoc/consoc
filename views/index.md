@@ -25,14 +25,7 @@ Contact Mike Smyth, [075 3324 0620](tel:+447533240620).
 	level: 2,
 %}
 
-<figure class="float-right" style="width: 10em; margin-bottom: 10px;">
-<img src="/img/jim.png" alt="Jim Nagel RIP, July 29th 1944 - March 21st 2020"> 
-<figcaption>
-Jim Nagel: 1944-2020.
-</figcaption>
-</figure>
-
-Jim was born and grew up in Canada, taking a degree in Mathematics and German at the University of Waterloo, also meeting Viola during those years. He remained after graduation as editor of the university paper, followed by beginning a journalism career at the local newspaper, the Kitchener Waterloo
+<img src="/img/jim.png" align="right" alt="Jim Nagel RIP, July 29th 1944 - March 21st 2020"> Jim was born and grew up in Canada, taking a degree in Mathematics and German at the University of Waterloo, also meeting Viola during those years. He remained after graduation as editor of the university paper, followed by beginning a journalism career at the local newspaper, the Kitchener Waterloo
 Record.
 
 He arrived in England in 1970 and was captivated by Glastonbury, commenting "Avalon is the heart: the crossroads of imagination, a place where young see visions and old dream dreams". He was a driving force in the establishment of a Christian community project, initially as summer camps but developing into a full-time operation, which lasted for a decade, supporting himself in a variety of local and London jobs. Marriage to Viola came in 1982, and the birth of sons Christopher and Bartholomew followed. Employment as
