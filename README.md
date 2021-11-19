@@ -50,6 +50,9 @@ The available fields are as follows:
 - `number` (required):
   the newsletter number.
 
+- `numberNotPrinted`:
+  if set to `true`, this newsletter did not print its number.
+
 - `hidden`:
   if set to `true`, this newsletter won't be shown in the list of newsletters.
   This is used currently only for newsletter 50, where we do not have the full
