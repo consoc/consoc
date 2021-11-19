@@ -21,6 +21,30 @@ Contact Alan Fear, [83 3185](tel:+441458833185).
 <article>
 
 {% include article-header with
+	title: "Jim Nagel Tribute",
+	author: "Ian Mutch (from Newsletter)",
+	level: 2,
+%}
+
+Jim was born and grew up in Canada, taking a degree in Mathematics and German at the University of Waterloo, also meeting Viola during those years. He remained after graduation as editor of the university paper, followed by beginning a journalism career at the local newspaper, the Kitchener Waterloo
+Record.
+
+He arrived in England in 1970 and was captivated by Glastonbury, commenting "Avalon is the heart: the crossroads of imagination, a place where young see visions and old dream dreams". He was a driving force in the establishment of a Christian community project, initially as summer camps but developing into a full-time operation, which lasted for a decade, supporting himself in a variety of local and London jobs. Marriage to Viola came in 1982, and the birth of sons Christopher and Bartholomew followed. Employment as
+editor or writer for the Somerset County Gazette, The Times, Church Times, Amstrad Action, Computer Shopper and Archive kept him busy, and in 1991 he founded Abbey Press which involved him in a wide range of editorial and publishing activities.
+
+As the years passed Jim became ever more involved in the activities of Glastonbury — including membership of the Conservation Society and production of the newsletter, as well as creating our website with its comprehensive archive of newsletter material produced over the years. Jim was an active member of St. John’s Church. He served on the PCC, joined the choir and, in early years, produced their newsletter. Latterly, he assisted with the church website. Jim was also part of the local drama scene.
+
+Jim was deeply imbued with the spirit of Glastonbury in a way which can perhaps happen only to those who are not actually born or grew up there. He had a deep interest and understanding not only of the physical structure of the place but also of the myths and spirituality surrounding it and the effect these had on people, whether residents or visitors to it. Consequently, in his own modest way, he was a mine of information on various aspects of the town, for which he cared very deeply. The Conservation Society
+Newsletter, which he edited for many years, combined with the website, bear abundant testimony to these attributes — which as a contributor one took very much for granted and with the comforting realisation that Jim knew what needed to be done — especially in the field of computer related matters. Here, as in so many other aspects, Jim was always modest about his abilities and knowledge, and it is only now that he is no longer with us that
+we realise how much his efforts underpinned our activities and presence.
+
+Diagnosed with cancer in 2011, Jim continued to undertake his various roles as far as possible, and produced the previous Conservation Society Newsletter in his typical format earlier this year, which was much applauded at the time, and seen as a return to normality just as a world pandemic was to make 'normality' an untouchable concept. We all owe him a great debt of gratitude, and working with him over many years, if only in a small way, was indeed a great pleasure.
+
+</article>
+
+<article>
+
+{% include article-header with
 	title: "Glastonbury chosen for potential £25m in Town Deal plan",
 	author: "Jim Nagel",
 	level: 2,
