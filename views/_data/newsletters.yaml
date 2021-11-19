@@ -1703,6 +1703,7 @@
 
 - roughDate: 2008-08
   number: 126
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -1746,6 +1747,7 @@
 
 - roughDate: 2009-01
   number: 127
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -1796,6 +1798,7 @@
 
 - roughDate: 2009-04
   number: 128
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: "Chairman’s notes: good design; local listing; Wick trees"
