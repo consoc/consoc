@@ -2051,6 +2051,7 @@
 
 - roughDate: 2010-07
   number: 132
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -2452,6 +2453,7 @@
 
 - roughDate: 2013-06
   number: 139
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -2498,6 +2500,7 @@
 
 - roughDate: 2013-10
   number: 140
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
