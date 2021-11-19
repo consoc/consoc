@@ -1140,6 +1140,7 @@
 - roughDate: 2005-10
   displayDate: 2005 November–December
   number: 117
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -1370,6 +1371,7 @@
 
 - roughDate: 2007-05
   number: 122
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: "Chairman’s notes"
@@ -1511,6 +1513,7 @@
 
 - roughDate: 2007-11
   number: 124
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: "Chairman’s notes: martens, walks, meetings, new buildings, old mill"
@@ -1821,6 +1824,7 @@
 
 - roughDate: 2009-08
   number: 129
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -2594,7 +2598,9 @@
 - roughDate: 2015-03
   displayDate: 2015 spring
   number: 142
-  editor: Jim Nagel
+  numberNotPrinted: true
+  pdfAvailable: true
+  editor: Alan Fear
   contents:
     - title: Chair’s report
       author: Alan Fear
@@ -2788,6 +2794,7 @@
 - roughDate: 2017-12
   displayDate: 2017 winter
   number: 148
+  pdfAvailable: true
   numberNotPrinted: true
   editor: Alan Fear
   contents:
@@ -2813,6 +2820,7 @@
 - roughDate: 2018-03
   displayDate: 2018 spring
   number: 149
+  pdfAvailable: true
   editor: Alan Fear
   contents:
     - title: Chairman’s report
@@ -2881,6 +2889,7 @@
   displayDate: 2019 summer
   number: 152
   pdfAvailable: true
+  editor: Alan Fear
   contents:
     - title: "Chairman’s report: Coombe House garden party; Holy Thorn stump; take secateurs if walking"
       page: 1
