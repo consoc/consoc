@@ -1339,6 +1339,7 @@
 
 - roughDate: 2006-12
   number: 121
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: "Chairman’s notes: MBE for Ian Rands, handing his shovel on after thousands of trees"
@@ -1482,6 +1483,7 @@
 
 - roughDate: 2007-07
   number: 123
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: Chairman’s notes
@@ -1595,6 +1597,7 @@
 
 - roughDate: 2008-06
   number: 125
+  pdfAvailable: true
   editor: Jim Nagel
   contents:
     - title: "Chairman’s notes: new housing; climate change"
