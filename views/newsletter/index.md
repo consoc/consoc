@@ -29,6 +29,8 @@ Articles or letters or comments from members are always welcome.
 {% include contents with nl %}
 </nav>
 
+<a href="pdf/{{n1.number}}.pdf">Download</a>
+
 </section>
 
 <article>
